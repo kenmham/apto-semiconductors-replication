@@ -1,0 +1,908 @@
+column,subcategory,in_specs,spec_dir,n_parts,n_years,yr_min,yr_max,distinct_pos,change_hi,change_lo,max_change,change_in_dir,pass_coverage,has_change,v_min,v_p50,v_p99,v_max,is_figure_of_merit,direction,label,notes,selected
+currentSupplyMax,"Linear, Compass (ICs)",false,,692,9,2009,2022,70,0.194,4.789,4.789,4.789,true,true,1.3e-7,0.009000000000000001,0.02,0.035,y,lo,"","",true
+currentSupplyMax,Switches (Solid State),false,,3011,18,2002,2022,134,0.469,4.0,4.0,4.0,true,true,2e-8,0.0045000000000000005,0.02,0.055,y,lo,"","",true
+currentSupply,Programmable Timers and Oscillators,false,,950,14,2000,2021,99,0.513,3.222,3.222,3.222,true,true,3.0000000000000004e-8,0.007,0.16,0.163,y,lo,"","",true
+operatingSupplyCurrent,Switching Voltage Regulators,false,,1446,11,2011,2021,171,0.008,3.097,3.097,3.097,true,true,4e-9,0.000046,8.0,16.3,y,lo,"","",true
+flashSize,"Microcontrollers, Microprocessor, FPGA Modules",false,,666,8,2004,2021,26,3.0,0.0,3.0,3.0,true,true,4000.0,32000000.0,32000000000.0,128000000000.0,y,hi,"","",true
+currentSupply,Power Management - Specialized,false,,3570,22,2002,2023,287,1.854,2.942,2.942,2.942,true,true,1.5000000000000002e-9,0.001,1.5,6.0,y,lo,"","",true
+totalRamBits,FPGAs (Field Programmable Gate Array),true,hi,17967,24,2000,2023,379,2.844,0.886,2.844,2.844,true,true,2560.0,3517440.0,82329600.0,514867200.0,y,hi,"","",true
+powerMax,IGBT Modules,false,,1861,13,2006,2022,429,2.673,3.954,3.954,2.673,true,true,0.02,568.0,1800000.0,5400000.0,y,hi,"","",true
+powerMax,"FET, MOSFET Arrays",false,,3008,19,2002,2022,300,2.574,1.431,2.574,2.574,true,true,0.00049,1.4,1250.0,3750.0,y,hi,"","",true
+framesPerSecond,"Image Sensors, Camera",false,,1448,16,2005,2023,98,2.398,1.176,2.398,2.398,true,true,1.0,60.0,600.0,260000.0,y,hi,"","",true
+numberOfLogicElementsCells,FPGAs (Field Programmable Gate Array),true,hi,16955,24,2000,2023,429,2.316,0.0,2.316,2.316,true,true,128.0,101261.0,2800000.0,8937600.0,y,hi,"","",true
+currentInputBias,"Instrumentation, Op Amps, Buffer Amps",true,lo,18157,24,2000,2023,265,1.146,2.301,2.301,2.301,true,true,1e-15,1e-9,0.00013749999999999998,0.005,y,lo,"","",true
+switchingFrequency,Switching Voltage Regulators,false,,3337,12,2011,2022,81,2.239,0.556,2.239,2.239,true,true,1200.0,1200000.0,6000000.0,1250000000.0,y,hi,"","",true
+currentSupply,"Power Supply Controllers, Monitors",false,,1321,17,2002,2021,134,2.347,2.204,2.347,2.204,true,true,1.0000000000000001e-7,0.002,0.1,4.0,y,lo,"","",true
+ifForwardCurrent,Rectifiers,false,,2439,15,2002,2022,94,2.181,0.0,2.181,2.181,true,true,0.2,2.0,1280.0,10650.0,y,hi,"","",true
+maxSurgeCurrent,Rectifiers,false,,2461,15,2002,2022,133,2.011,0.0,2.011,2.011,true,true,0.5,70.0,17050.0,118000.0,y,hi,"","",true
+operatingSupplyCurrent,LDO Voltage Regulators,false,,3494,16,2006,2022,81,0.699,2.0,2.0,2.0,true,true,1e-8,0.000028,0.00010999999999999999,0.2,y,lo,"","",true
+currentCathode,Voltage Reference,false,,2767,13,2000,2021,63,2.0,1.0,2.0,2.0,true,true,7e-7,0.00007999999999999999,0.1,0.15,y,hi,"","",true
+quiescentCurrent,LDO Voltage Regulators,false,,3246,16,2006,2022,102,1.176,2.0,2.0,2.0,true,true,1e-8,0.000024999999999999998,0.0026000000000000003,0.075,y,lo,"","",true
+currentDcForwardIfMax,"LED Emitters - Infrared, UV, Visible",false,,3423,17,2002,2022,61,2.0,0.523,2.0,2.0,true,true,0.01,0.1,18.0,30.0,y,hi,"","",true
+3dbBandwidth,"Analog Switches, Multiplexers, Demultiplexers",false,,3460,22,2000,2022,199,1.974,0.079,1.974,1.974,true,true,9500000.0,180000000.0,5500000000.0,32000000000.0,y,hi,"","",true
+quiescentCurrent,Switching Voltage Regulators,false,,3114,11,2011,2022,161,0.839,1.954,1.954,1.954,true,true,1e-8,0.000014999999999999999,0.044,0.24,y,lo,"","",true
+powerMax,Bipolar Transistor Arrays,false,,1139,9,2002,2021,71,1.916,0.176,1.916,1.916,true,true,0.05,0.3,2.75,330.0,y,hi,"","",true
+samplingRatePerSecond,Analog to Digital Converters (ADC),true,hi,9473,24,2000,2023,254,1.903,0.301,1.903,1.903,true,true,3.75,1000000.0,2000000000.0,26000000000.0,y,hi,"","",true
+currentSupplyMax,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",false,,21784,23,2000,2022,317,0.0,1.796,1.796,1.796,true,true,2.6e-7,0.000113625,0.11,6.0,y,lo,"","",true
+propagationDelayMax,Comparators,false,,1478,13,2000,2018,139,1.652,1.796,1.796,1.796,true,true,8.8e-11,8e-7,0.0003,0.0013000000000000002,y,lo,"","",true
+onStateResistanceMax,Analog Switches - Special Purpose,false,,723,11,2000,2021,79,0.465,1.778,1.778,1.778,true,true,0.07,10.0,120.0,400.0,y,lo,"","",true
+pdPowerDissipation,Digital Isolators,false,,1283,14,2008,2022,106,1.767,0.98,1.767,1.767,true,true,0.003,0.275,2.78,156.0,y,hi,"","",true
+numberOfLabsClbs,FPGAs (Field Programmable Gate Array),true,hi,14691,23,2000,2023,391,1.726,0.301,1.726,1.726,true,true,32.0,11000.0,427200.0,531200.0,y,hi,"","",true
+ippPeakPulseCurrent,Transient Voltage Suppression Diodes - TVS,true,hi,4833,20,2002,2022,663,1.712,0.336,1.712,1.712,true,true,0.1,26.6,543.0,10000.0,y,hi,"","",true
+currentOutputChannel,Logic Output Optoisolators,false,,1563,12,2002,2021,16,1.699,0.699,1.699,1.699,true,true,0.002,0.025,2.0,6.0,y,hi,"","",true
+channelToChannelMatchingΔron,"Analog Switches, Multiplexers, Demultiplexers",false,,3982,21,2000,2022,93,0.778,1.654,1.654,1.654,true,true,0.0011,0.5,27.0,126.0,y,lo,"","",true
+currentQuiescentIq,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",true,lo,55622,24,2000,2023,372,0.699,1.62,1.62,1.62,true,true,2e-8,0.000054999999999999995,0.01,0.09,y,lo,"","",true
+ifForwardCurrent,LED Panel Mount Indicators,false,,1417,12,2005,2021,31,1.602,0.0,1.602,1.602,true,true,0.002,0.02,1.0,1.0,y,hi,"","",true
+responseTime,Current Sensors,false,,3926,21,2002,2023,85,1.0,1.574,1.574,1.574,true,true,5e-10,4e-6,0.6,15.0,y,lo,"","",true
+pulseWidth,Digital Isolators,false,,1270,15,2006,2022,23,1.602,1.477,1.602,1.477,true,true,2.0000000000000003e-10,6.6e-9,1.0000000000000002e-6,0.000039999999999999996,y,lo,"","",true
+rotationalLifeCyclesMin,Encoders,true,hi,8622,20,2002,2021,31,1.477,0.0,1.477,1.477,true,true,0.36,36.0,10000000.0,360000000.0,y,hi,"","",true
+currentOutputChannel,LED Drivers,false,,3776,18,2004,2022,160,1.38,0.532,1.38,1.38,true,true,0.00039999999999999996,0.1,4.5,24.0,y,hi,"","",true
+frequencyMax,Application Specific Clock/Timing,false,,2257,16,2002,2022,185,1.352,3.903,3.903,1.352,true,true,1.0,200000000.0,8710000000.0,36000000000.0,y,hi,"","",true
+clockFrequency,Memory,true,hi,31896,24,2000,2023,136,1.329,0.398,1.329,1.329,true,true,100000.0,133000000.0,2400000000.0,1600000000000.0,y,hi,"","",true
+currentOnStateItRmsMax,SCRs - Modules,false,,1393,9,2002,2021,207,1.285,0.415,1.285,1.285,true,true,0.6,315.0,5970.0,29900.0,y,hi,"","",true
+3dbBandwidth,Analog Switches - Special Purpose,false,,974,13,2000,2021,144,1.178,0.456,1.178,1.178,true,true,10000000.0,650000000.0,12000000000.0,27500000000.0,y,hi,"","",true
+voltageLoad_max,"Power Distribution Switches, Load Drivers",false,,5367,23,2000,2023,89,1.164,0.485,1.164,1.164,true,true,0.7,5.5,600.0,1400.0,y,hi,"","",true
+currentMax,LED Color Lighting,false,,4175,16,2006,2023,68,1.146,0.523,1.146,1.146,true,true,0.015,1.0,5.0,18.0,y,hi,"","",true
+maximumRiseTime,Digital Isolators,false,,1424,14,2008,2022,40,2.959,1.143,2.959,1.143,true,true,1.8e-10,4e-9,0.001,0.001,y,lo,"","",true
+currentOutputChannel,"Transistor, Photovoltaic Output Optoisolators",false,,8279,22,2000,2022,39,1.125,3.204,3.204,1.125,true,true,1e-6,0.05,0.15,5.0,y,hi,"","",true
+currentSensing,Current Sensors,true,hi,4073,21,2002,2023,203,1.097,3.0,3.0,1.097,true,true,0.001,90.0,12000.0,100000.0,y,hi,"","",true
+currentDcForwardIfMax,"Triac, SCR Output Optoisolators",false,,1188,10,2002,2017,10,1.097,0.0,1.097,1.097,true,true,0.003,0.06,0.08,1.0,y,hi,"","",true
+onChipRam,DSP (Digital Signal Processors),false,,1890,16,2000,2016,114,1.093,1.066,1.093,1.093,true,true,896.0,288000.0,10500000.0,12750000.0,y,hi,"","",true
+currentSupply,"Signal Buffers, Repeaters, Splitters",false,,658,11,2002,2021,123,0.739,1.079,1.079,1.079,true,true,1e-6,0.013000000000000001,0.8,1.036,y,lo,"","",true
+3dbBandwidth,"Instrumentation, Op Amps, Buffer Amps",true,hi,6308,22,2000,2022,303,1.073,2.606,2.606,1.073,true,true,124.0,90000000.0,2300000000.0,39000000000.0,y,hi,"","",true
+maximumFallTime,Digital Isolators,false,,1453,14,2008,2022,47,2.959,1.046,2.959,1.046,true,true,1.8e-10,4e-9,0.001,0.001,y,lo,"","",true
+noise10hzTo10khz,Voltage Reference,false,,2251,14,2000,2017,104,2.222,1.032,2.222,1.032,true,true,6e-7,0.000044999999999999996,0.00028,0.03,y,lo,"","",true
+rdsOnTyp,"Power Distribution Switches, Load Drivers",false,,5404,24,2000,2023,287,0.594,1.03,1.03,1.03,true,true,0.00047,0.073,1.8,38.0,y,lo,"","",true
+voltageLoad_max,"Motor Drivers, Controllers",false,,2468,20,2002,2022,100,1.03,0.174,1.03,1.03,true,true,0.325,32.0,450.0,600.0,y,hi,"","",true
+clockFrequency,Flip Flops,false,,1136,10,2001,2017,112,1.028,0.067,1.028,1.028,true,true,3000000.0,150000000.0,28000000000.0,50000000000.0,y,hi,"","",true
+operatingSupplyCurrent,Supervisory Circuits,false,,4960,8,2012,2022,114,3.692,1.019,3.692,1.019,true,true,1.8000000000000002e-8,1.1e-6,0.059000000000000004,0.059000000000000004,y,lo,"","",true
+millicandelaRating,LED Indication - Discrete,true,hi,17233,23,2000,2022,1221,1.013,0.602,1.013,1.013,true,true,0.00001,0.21,22.45,67.5,y,hi,"","",true
+jitter,Clock Generators & Support Products,true,lo,8853,11,2010,2022,32,3.551,1.006,3.551,1.006,true,true,6.900000000000001e-14,6.999999999999999e-13,1.5e-10,1.4e-7,y,lo,"","",true
+sustainedWrite,Solid State Drives - SSD,false,,3085,11,2013,2023,252,1.0,0.135,1.0,1.0,true,true,11.0,500.0,10000.0,10000.0,y,hi,"","",true
+millicandelaRating,"Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",false,,3662,15,2001,2019,205,1.0,0.602,1.0,1.0,true,true,0.0003,0.0126,1.3,20.0,y,hi,"","",true
+accessTime,SRAM,false,,3745,10,2001,2012,28,0.398,1.0,1.0,1.0,true,true,4e-10,6.5e-9,1.2000000000000002e-8,7e-8,y,lo,"","",true
+voltageDcReverseVrMax,Photodiodes,false,,744,8,2006,2021,56,1.0,1.523,1.523,1.0,true,true,0.3,32.0,350.0,2000.0,y,hi,"","",true
+currentMax,RF Diodes,false,,788,9,2002,2022,42,1.0,0.176,1.0,1.0,true,true,0.0024,0.1,25.0,40.0,y,hi,"","",true
+reverseRecoveryTimeTrr,Diode Arrays,false,,4829,24,2000,2023,182,0.865,1.0,1.0,1.0,true,true,1e-10,3.5e-8,3e-6,0.000024999999999999998,y,lo,"","",true
+frequencyTransition,Bipolar Transistor Arrays,false,,936,8,2002,2021,68,0.979,0.398,0.979,0.979,true,true,1250000.0,150000000.0,800000000.0,8500000000.0,y,hi,"","",true
+currentOutput,"Motor Drivers, Controllers",false,,2763,20,2002,2022,125,0.973,0.0,0.973,0.973,true,true,0.002,1.5,30.0,100.0,y,hi,"","",true
+pdPowerDissipation,Transient Voltage Suppression Diodes - TVS,false,,2581,16,2002,2022,27,0.972,1.0,1.0,0.972,true,true,0.1,5.0,8.0,1500.0,y,hi,"","",true
+drainToSourceVoltageVdss,"FET, MOSFET Arrays",false,,4733,19,2002,2022,48,0.954,0.122,0.954,0.954,true,true,5.5,30.0,700.0,1700.0,y,hi,"","",true
+operatingSupplyCurrent,Clock Generators & Support Products,false,,6693,11,2010,2022,21,0.556,0.954,0.954,0.954,true,true,0.003,0.045,0.13,1.7,y,lo,"","",true
+currentMax,LED White Lighting,false,,37960,18,2006,2023,97,0.954,1.125,1.125,0.954,true,true,0.0012250000000000002,0.8,3.6,32.0,y,hi,"","",true
+accessTime,Memory,true,lo,27038,24,2000,2023,136,0.699,0.942,0.942,0.942,true,true,1.95e-10,1.8000000000000002e-8,2e-6,0.00045,y,lo,"","",true
+sustainedRead,Solid State Drives - SSD,false,,3086,11,2013,2023,214,0.942,0.0,0.942,0.942,true,true,20.0,550.0,14000.0,14000.0,y,hi,"","",true
+temperatureCoefficient,Voltage Reference,false,,4369,20,2000,2022,49,0.031,0.942,0.942,0.942,true,true,0.2,30.0,150.0,220.0,y,lo,"","",true
+currentSupply,Voltage Reference,false,,2670,18,2000,2022,92,1.194,0.933,1.194,0.933,true,true,7.000000000000001e-7,0.000135,0.0075,0.05,y,lo,"","",true
+outputPower,LED Drivers Power Supplies,false,,2445,13,2010,2022,293,0.924,1.176,1.176,0.924,true,true,0.7000000000000001,70.0,600.6,2100.0,y,hi,"","",true
+voltageInputOffset,"Instrumentation, Op Amps, Buffer Amps",true,lo,18397,24,2000,2023,180,1.041,0.921,1.041,0.921,true,true,1e-8,0.00039999999999999996,0.01,10.0,y,lo,"","",true
+frequency_max,Programmable Timers and Oscillators,false,,646,10,2000,2017,118,0.918,2.01,2.01,0.918,true,true,977.0,8000000.0,707350000.0,1124000000.0,y,hi,"","",true
+operatingSupplyCurrent,Digital Isolators,false,,1424,16,2006,2022,203,0.471,0.915,0.915,0.915,true,true,0.000012,0.0088,0.125,0.4022,y,lo,"","",true
+currentOutput,Voltage Regulators - DC DC Switching Regulators,false,,27755,24,2000,2023,153,0.903,0.456,0.903,0.903,true,true,0.0004,0.65,20.0,765.0,y,hi,"","",true
+currentOnStateItAvMax,SCRs - Modules,false,,1522,9,2002,2021,223,0.892,0.194,0.892,0.892,true,true,14.0,165.0,3330.0,6110.0,y,hi,"","",true
+pdPowerDissipation,Zener Diodes,false,,2343,14,2002,2022,26,0.886,0.301,0.886,0.886,true,true,0.1,0.5,3.0,10.0,y,hi,"","",true
+currentPeakPulse820µs,Thyristors,false,,1911,10,2002,2021,24,0.875,0.368,0.875,0.875,true,true,30.0,250.0,3000.0,5000.0,y,hi,"","",true
+currentAverageRectifiedIo,Single Diodes,true,hi,40911,24,2000,2023,471,0.852,0.0,0.852,0.852,true,true,0.00009999999999999999,2.4,600.0,15130.0,y,hi,"","",true
+propagationDelayTime,Digital Isolators,false,,2519,19,2004,2022,111,5.208,0.844,5.208,0.844,true,true,2.1500000000000002e-9,1.5000000000000002e-8,0.1,0.1,y,lo,"","",true
+frequency_max,LED Drivers,false,,4243,18,2004,2022,161,0.824,2.426,2.426,0.824,true,true,60.0,1000000.0,35000000.0,250000000.0,y,hi,"","",true
+currentQuiescentMax,Comparators,false,,2507,19,2000,2021,174,0.558,0.824,0.824,0.824,true,true,1.5000000000000002e-7,0.000072,0.026600000000000002,0.08,y,lo,"","",true
+currentOutputMax,Switches (Solid State),false,,2540,17,2002,2022,47,0.824,1.0,1.0,0.824,true,true,1e-6,0.02,0.2,1.09,y,hi,"","",true
+pdPowerDissipation,Supervisory Circuits,false,,4967,8,2012,2022,33,0.809,0.079,0.809,0.809,true,true,0.1,0.25,1.0,5.8,y,hi,"","",true
+riseTime,MOSFETs,false,,1374,9,2010,2022,210,0.5,0.802,0.802,0.802,true,true,6e-10,1.7e-8,1.3e-7,1.3e-6,y,lo,"","",true
+frequencyMax,"Clock Generators, PLLs, Frequency Synthesizers",false,,6790,23,2000,2022,431,0.778,3.544,3.544,0.778,true,true,120.0,200000000.0,10000000000.0,35000000000.0,y,hi,"","",true
+temperatureCoefficientTyp,Digital Potentiometers,false,,2450,14,2000,2021,34,0.026,0.778,0.778,0.778,true,true,5.0,150.0,800.0,850.0,y,lo,"","",true
+activeReadCurrentMax,NOR Flash,false,,1571,12,2002,2021,39,0.74,0.778,0.778,0.778,true,true,0.002,0.02,0.1,0.22,y,lo,"","",true
+samplingRatePerSecond,ADCs/DACs - Special Purpose,false,,930,12,2001,2021,80,0.745,0.0,0.745,0.745,true,true,50.0,192000.0,200000000.0,1000000000.0,y,hi,"","",true
+highSideVoltageMaxBootstrap,Gate Drivers,false,,2043,18,2000,2022,81,0.734,0.398,0.734,0.734,true,true,6.0,120.0,6500.0,6500.0,y,hi,"","",true
+voltageDcReverseVrMax,Diode Arrays,false,,14412,24,2000,2023,90,0.734,0.301,0.734,0.734,true,true,3.0,100.0,2000.0,64000.0,y,hi,"","",true
+typicalTurnOnDelayTime,MOSFETs,false,,1540,10,2008,2022,205,0.391,0.716,0.716,0.716,true,true,5e-10,1.5000000000000002e-8,1.7500000000000002e-7,1e-6,y,lo,"","",true
+currentCollectorIcMax,Single IGBTs,false,,3633,17,2002,2022,222,0.708,0.0,0.708,0.708,true,true,0.5,50.0,340.0,3000.0,y,hi,"","",true
+currentCollectorIcMax,"Single, Pre-Biased Bipolar Transistors",false,,3459,16,2002,2021,17,0.699,0.0,0.699,0.699,true,true,0.02,0.1,0.6,3.0,y,hi,"","",true
+irReverseCurrent,Rectifiers,false,,2429,15,2002,2022,39,6.978,0.699,6.978,0.699,true,true,2.0000000000000002e-7,4.9999999999999996e-6,0.05,1425.0,y,lo,"","",true
+vfForwardVoltage,Transient Voltage Suppression Diodes - TVS,false,,1618,13,2002,2022,23,0.114,0.699,0.699,0.699,true,true,0.46,3.5,5.0,25.0,y,lo,"","",true
+currentLeakageIsOffMax,"Analog Switches, Multiplexers, Demultiplexers",true,lo,5137,22,2000,2022,66,1.477,0.699,1.477,0.699,true,true,1e-11,1e-9,4.9999999999999996e-6,0.000185,y,lo,"","",true
+currentQuiescentMax,Gates and Inverters,false,,5666,18,2000,2022,31,1.398,0.699,1.398,0.699,true,true,1.0000000000000001e-7,2e-6,0.00019999999999999998,0.075,y,lo,"","",true
+writeCycleTimeWordPage,Memory,false,,24338,23,2000,2022,109,0.097,0.699,0.699,0.699,true,true,1.71e-10,7e-8,0.01,0.05,y,lo,"","",true
+irReverseCurrent,Zener Diodes,false,,1803,14,2002,2022,41,1.0,0.699,1.0,0.699,true,true,1e-8,2e-6,0.00009999999999999999,0.02,y,lo,"","",true
+currentCollectorIcMax,IGBT Modules,false,,2215,14,2006,2022,293,0.677,0.687,0.687,0.677,true,true,1.0,150.0,3200.0,7200.0,y,hi,"","",true
+gainBandwidthProduct,"Instrumentation, Op Amps, Buffer Amps",false,,14825,24,2000,2023,310,0.66,0.523,0.66,0.66,true,true,400.0,3000000.0,1750000000.0,20000000000.0,y,hi,"","",true
+currentOutputMax,"Power Distribution Switches, Load Drivers",false,,6128,24,2000,2023,206,0.638,0.477,0.638,0.638,true,true,0.0021000000000000003,2.0,65.0,135.0,y,hi,"","",true
+powerOutput,"RF FETs, MOSFETs",false,,2100,15,2007,2022,222,0.635,0.0,0.635,0.635,true,true,0.125,60.0,1800.0,2500.0,y,hi,"","",true
+currentOnStateItRmsMax,SCRs,false,,2800,15,2002,2022,191,0.626,1.359,1.359,0.626,true,true,0.035,25.0,6305.0,11795.0,y,hi,"","",true
+voltageOffState,SCRs,false,,2850,15,2002,2022,44,0.609,0.0,0.609,0.609,true,true,30.0,600.0,4200.0,8000.0,y,hi,"","",true
+maximumClockFrequency,SRAM,false,,8470,16,2001,2017,32,0.602,0.176,0.602,0.602,true,true,100000000.0,333000000.0,725000000.0,1333000000.0,y,hi,"","",true
+currentSupplyMax,Current Sensors,false,,3377,20,2002,2023,114,3.155,0.602,3.155,0.602,true,true,0.00014,0.02,80.0,4000.0,y,lo,"","",true
+supplyCurrentMax,SRAM,false,,4782,14,2004,2018,293,0.468,0.602,0.602,0.602,true,true,0.001175,0.81,2.74,3.4,y,lo,"","",true
+currentAverageRectifiedIoPerDiode,Diode Arrays,false,,12258,24,2000,2023,240,0.602,0.602,0.602,0.602,true,true,0.0050999999999999995,15.0,410.0,1600.0,y,hi,"","",true
+outputCurrent,Switching Voltage Regulators,false,,3671,13,2010,2022,98,0.602,2.778,2.778,0.602,true,true,4.9999999999999996e-6,1.0,30.0,140.0,y,hi,"","",true
+dropoutVoltageMax,LDO Voltage Regulators,false,,1256,9,2012,2022,192,0.363,0.602,0.602,0.602,true,true,0.03,0.35000000000000003,2.3,140.0,y,lo,"","",true
+voltageCollectorEmitterBreakdownMax,IGBT Modules,false,,2271,14,2006,2022,25,0.582,0.38,0.582,0.582,true,true,250.0,1200.0,4500.0,6500.0,y,hi,"","",true
+noiseFigure,RF Amplifiers,false,,4445,20,2002,2023,182,0.558,0.569,0.569,0.569,true,true,0.23,3.0,11.0,50.6,y,lo,"","",true
+frequencyMax,"Clock Buffers, Drivers",false,,2650,16,2002,2022,98,0.566,1.903,1.903,0.566,true,true,120.0,500000000.0,12000000000.0,20000000000.0,y,hi,"","",true
+capacitance,Thyristors,false,,1234,8,2002,2021,108,0.325,0.561,0.561,0.561,true,true,1.5e-13,6e-11,4.5e-10,6.5e-10,y,lo,"","",true
+voltageOffState,SCRs - Modules,false,,1819,10,2002,2021,41,0.561,0.301,0.561,0.561,true,true,100.0,1400.0,5350.0,9500.0,y,hi,"","",true
+voltageIsolation,Power Driver Modules,false,,562,8,2004,2022,11,0.561,0.0,0.561,0.561,true,true,1000.0,2000.0,5000.0,9100.0,y,hi,"","",true
+currentOnStateItAvMax,SCRs,false,,2653,14,2002,2022,201,0.556,0.222,0.556,0.556,true,true,0.1,19.0,4005.0,8440.0,y,hi,"","",true
+currentAverageRectifiedIo,Bridge Rectifiers,false,,6585,19,2002,2022,152,0.556,0.757,0.757,0.556,true,true,0.025,6.0,188.0,900.0,y,hi,"","",true
+idContinuousDrainCurrent,MOSFETs,false,,1902,11,2007,2022,327,0.544,0.301,0.544,0.544,true,true,0.00025,20.0,300.0,602.0,y,hi,"","",true
+voltageCollectorEmitterBreakdownMax,Bipolar Transistor Arrays,false,,1175,10,2002,2021,33,0.523,0.477,0.523,0.523,true,true,2.0,45.0,300.0,400.0,y,hi,"","",true
+currentCollectorPulsedIcm,Single IGBTs,false,,3318,15,2004,2022,196,0.523,0.352,0.523,0.523,true,true,2.0,120.0,900.0,1600.0,y,hi,"","",true
+pulsesPerRevolution,Encoders - Industrial,false,,3874,15,2006,2022,88,0.515,1.0,1.0,0.515,true,true,0.333,400.0,10000.0,65536.0,y,hi,"","",true
+dropoutVoltage,LDO Voltage Regulators,false,,4253,16,2006,2022,199,0.165,0.505,0.505,0.505,true,true,0.018000000000000002,0.24,1.5,2.2,y,lo,"","",true
+numberOfIO,Application Specific Microcontrollers,false,,1007,14,2004,2022,75,0.505,0.602,0.602,0.505,true,true,1.0,17.5,141.0,169.0,y,hi,"","",true
+numberOfGates,FPGAs (Field Programmable Gate Array),false,,3003,11,2000,2020,76,0.498,0.584,0.584,0.498,true,true,156.0,600000.0,5250000.0,8000000.0,y,hi,"","",true
+onStateResistanceMax,"Analog Switches, Multiplexers, Demultiplexers",false,,5386,22,2000,2022,166,0.653,0.495,0.653,0.495,true,true,0.125,20.0,400.0,3500.0,y,lo,"","",true
+frequencySwitching,DC DC Switching Controllers,false,,2776,20,2000,2021,71,0.477,0.0,0.477,0.477,true,true,9400.0,300000.0,2200000.0,3000000.0,y,hi,"","",true
+typicalTurnOffDelayTime,MOSFETs,false,,1547,10,2008,2022,286,0.887,0.477,0.887,0.477,true,true,2e-9,4.6200000000000003e-8,1.075e-6,0.000031,y,lo,"","",true
+powerMax,"Single, Pre-Biased Bipolar Transistors",false,,3448,16,2002,2021,34,0.477,0.176,0.477,0.477,true,true,0.05,0.2,0.5,3.0,y,hi,"","",true
+inputCapacitance,Flip Flops,false,,1000,10,2001,2017,20,0.477,0.477,0.477,0.477,true,true,6e-13,4e-12,1e-11,3e-11,y,lo,"","",true
+outputCurrentChannel1,LED Drivers Power Supplies,false,,2267,13,2010,2022,201,0.459,0.845,0.845,0.459,true,true,0.001,2.0,20.0,40.0,y,hi,"","",true
+currentDischargeNom820µs,Surge Protection Devices (SPDs),false,,9068,13,2011,2023,33,0.456,0.046,0.456,0.456,true,true,10.0,20000.0,35000.0,100000.0,y,hi,"","",true
+drainToSourceVoltageVdss,"Single FETs, MOSFETs",true,hi,38150,24,2000,2023,102,0.439,0.273,0.439,0.439,true,true,5.0,60.0,1200.0,4700.0,y,hi,"","",true
+frequencySwitching,Voltage Regulators - DC DC Switching Regulators,true,hi,23354,24,2000,2023,171,0.436,0.74,0.74,0.436,true,true,1200.0,1200000.0,6000000.0,20000000.0,y,hi,"","",true
+currentSupply,"Instrumentation, Op Amps, Buffer Amps",false,,10757,23,2000,2022,442,0.626,0.426,0.626,0.426,true,true,1.6e-7,0.001,0.046,0.53,y,lo,"","",true
+frequency_max,RF Amplifiers,false,,6111,20,2002,2023,301,0.421,0.362,0.421,0.421,true,true,455000.0,4200000000.0,76000000000.0,110000000000.0,y,hi,"","",true
+numberOfIO,FPGAs (Field Programmable Gate Array),false,,18922,24,2000,2023,457,0.411,0.663,0.663,0.411,true,true,10.0,346.0,976.0,212480.0,y,hi,"","",true
+currentMax,"LED COBs, Engines, Modules, Strips",false,,28449,14,2010,2023,245,0.41,0.465,0.465,0.41,true,true,0.00125,1.2,10.0,36.0,y,hi,"","",true
+currentPeakPulse101000µs,TVS Diodes,true,hi,75608,24,2000,2023,1881,0.406,0.0,0.406,0.406,true,true,0.0040999999999999995,20.1,488.7,990.0,y,hi,"","",true
+vrReverseVoltage,Rectifiers,false,,2444,15,2002,2022,55,0.398,0.222,0.398,0.398,true,true,20.0,400.0,4200.0,12000.0,y,hi,"","",true
+powerMax,"Bipolar Transistor Arrays, Pre-Biased",false,,1787,11,2002,2021,32,0.398,0.176,0.398,0.398,true,true,0.1,0.23500000000000001,0.6,2.0,y,hi,"","",true
+numberOfIO,I/O Expanders,false,,712,8,2002,2021,18,0.398,0.301,0.398,0.398,true,true,1.0,16.0,40.0,60.0,y,hi,"","",true
+chargeCurrentMax,Battery Chargers,false,,2121,18,2002,2022,95,0.388,0.176,0.388,0.388,true,true,0.0075,1.1,10.0,30.0,y,hi,"","",true
+loadVoltageRating_max,Solid State Relays - Industrial Mount,false,,2710,14,2007,2022,57,0.385,0.301,0.385,0.385,true,true,6.0,280.0,660.0,1600.0,y,hi,"","",true
+frequencyTransition,Single Bipolar Transistors,true,hi,10412,22,2000,2022,131,0.368,0.301,0.368,0.368,true,true,80000.0,120000000.0,500000000.0,8000000000.0,y,hi,"","",true
+voltageBreakdown,"AC DC Converters, Offline Switchers",false,,2606,20,2002,2023,25,0.367,0.62,0.62,0.367,true,true,100.0,700.0,1000.0,1700.0,y,hi,"","",true
+numberOfIO,Microcontrollers,true,hi,71361,25,2000,2024,200,0.356,0.097,0.356,0.356,true,true,1.0,40.0,168.0,301.0,y,hi,"","",true
+frequency_max,"Ultrasonic Receivers, Transmitters",false,,1628,11,2011,2022,51,0.354,2.903,2.903,0.354,true,true,50.0,42000.0,500000.0,2450000.0,y,hi,"","",true
+lumensWattCurrentTest,LED Color Lighting,false,,2788,14,2006,2023,188,0.354,0.176,0.354,0.354,true,true,1.0,73.0,182.0,622.0,y,hi,"","",true
+powerMax,Single IGBTs,false,,3504,17,2002,2022,397,0.344,0.0,0.344,0.344,true,true,0.6,208.0,1360.0,2300.0,y,hi,"","",true
+vfForwardVoltage,Rectifiers,false,,2417,15,2002,2022,112,0.602,0.325,0.602,0.325,true,true,0.45,1.1,3.2,100.0,y,lo,"","",true
+numberOfIO,System On Chip (SoC),false,,4445,12,2011,2023,124,0.306,0.845,0.845,0.306,true,true,3.0,440.0,780.0,1160.0,y,hi,"","",true
+resetDelayTime,Supervisory Circuits,false,,2669,8,2012,2022,47,1.709,0.301,1.709,0.301,true,true,0.000014999999999999999,0.01,0.8,12.5,y,lo,"","",true
+numberOfBits,Digital to Analog Converters (DAC),false,,6807,23,2000,2022,15,0.301,0.125,0.301,0.301,true,true,4.0,12.0,18.0,32.0,y,hi,"","",true
+isolationVoltage,Digital Isolators,false,,2811,19,2004,2022,25,0.301,0.75,0.75,0.301,true,true,300.0,3750.0,6000.0,10000.0,y,hi,"","",true
+currentDischargeMax820µs,Surge Protection Devices (SPDs),false,,8098,13,2011,2023,60,0.301,0.0,0.301,0.301,true,true,100.0,120000.0,600000.0,800000.0,y,hi,"","",true
+voltageOffState,TRIACs,false,,2757,14,2002,2021,14,0.301,0.0,0.301,0.301,true,true,100.0,600.0,1200.0,1800.0,y,hi,"","",true
+responseTime,"Photoelectric, Industrial",true,lo,12403,23,2000,2022,115,1.398,0.301,1.398,0.301,true,true,3e-6,0.000625,0.1,2.3,y,lo,"","",true
+currentQuiescentIq,Flip Flops,false,,1187,10,2001,2017,62,0.39,0.301,0.39,0.301,true,true,5e-7,9.999999999999999e-6,0.125,0.233,y,lo,"","",true
+frequencySwitching,Voltage Regulators - Linear + Switching,false,,695,9,2007,2022,45,0.301,0.176,0.301,0.301,true,true,130000.0,2000000.0,3000000.0,8000000.0,y,hi,"","",true
+resolutionBits,ADCs/DACs - Special Purpose,false,,1241,17,2001,2022,18,0.301,0.903,0.903,0.301,true,true,1.0,24.0,32.0,64.0,y,hi,"","",true
+frequencySwitching,"AC DC Converters, Offline Switchers",false,,2186,17,2002,2022,72,0.301,0.301,0.301,0.301,true,true,740.0,100000.0,1000000.0,10000000.0,y,hi,"","",true
+pppmPeakPulsePowerDissipation,Transient Voltage Suppression Diodes - TVS,false,,5249,20,2002,2022,91,0.301,1.222,1.222,0.301,true,true,0.09,600.0,30000.0,30000.0,y,hi,"","",true
+currentOutput,Voltage Reference,false,,5684,21,2000,2022,32,0.301,1.097,1.097,0.301,true,true,0.000039999999999999996,0.015,0.15,0.25,y,hi,"","",true
+outputCurrent,LDO Voltage Regulators,true,hi,4642,16,2006,2022,49,0.301,0.301,0.301,0.301,true,true,0.0014,0.2,2.0,5.0,y,hi,"","",true
+powerMax,Single Zener Diodes,true,hi,48579,23,2000,2022,47,0.301,0.301,0.301,0.301,true,true,0.1,0.5,5.0,50.0,y,hi,"","",true
+currentPeakPulse101000µs,Thyristors,false,,2009,11,2002,2022,19,0.301,0.331,0.331,0.301,true,true,14.0,80.0,200.0,1100.0,y,hi,"","",true
+voltagePeakReverseMax,RF Diodes,false,,935,10,2002,2022,57,0.301,0.477,0.477,0.301,true,true,1.0,50.0,1500.0,15000.0,y,hi,"","",true
+powerMax,Single Bipolar Transistors,false,,12142,22,2000,2022,179,0.301,0.176,0.301,0.301,true,true,0.001,0.625,160.0,300.0,y,hi,"","",true
+zzZenerImpedance,Zener Diodes,false,,2181,13,2002,2021,115,0.247,0.301,0.301,0.301,true,true,0.06,40.0,1500.0,4000.0,y,lo,"","",true
+currentOutputTyp,Comparators,false,,740,9,2000,2017,42,0.279,1.301,1.301,0.279,true,true,2e-9,0.025,0.085,0.1,y,hi,"","",true
+rdsOnDrainSourceResistance,MOSFETs,false,,1879,11,2007,2022,492,0.0,0.278,0.278,0.278,true,true,0.00039999999999999996,0.07200000000000001,60.0,250.0,y,lo,"","",true
+currentSupply,RF Amplifiers,false,,5430,20,2002,2023,548,1.576,0.263,1.576,0.263,true,true,0.000525,0.148,8.0,85.0,y,lo,"","",true
+pdPowerDissipation,MOSFETs,false,,1842,10,2008,2022,301,0.261,0.0,0.261,0.261,true,true,0.1,50.0,500.0,1070.0,y,hi,"","",true
+vceSaturationMax,"Transistor, Photovoltaic Output Optoisolators",false,,8574,22,2000,2022,15,0.0,0.26,0.26,0.26,true,true,0.1,0.4,1.2,8.0,y,lo,"","",true
+slewRate,"Instrumentation, Op Amps, Buffer Amps",true,hi,17762,24,2000,2023,375,0.251,0.539,0.539,0.251,true,true,0.001,3.0,5000.0,18200.0,y,hi,"","",true
+gain,RF Amplifiers,true,hi,5868,20,2002,2023,331,0.249,0.112,0.249,0.249,true,true,1.0,22.0,60.0,85.0,y,hi,"","",true
+voltageBreakover,Thyristors,false,,1718,11,2002,2022,96,0.243,0.0,0.243,0.243,true,true,10.5,210.0,600.0,5600.0,y,hi,"","",true
+clockRate,DSP (Digital Signal Processors),false,,1813,15,2000,2016,77,0.24,2.921,2.921,0.24,true,true,8000.0,400000000.0,1200000000.0,1400000000.0,y,hi,"","",true
+voltageOffState,Thyristors,false,,1735,11,2002,2022,70,0.235,0.125,0.235,0.235,true,true,5.25,155.0,420.0,2000.0,y,hi,"","",true
+voltageForwardVfTyp,"LED Emitters - Infrared, UV, Visible",false,,3178,15,2002,2022,175,1.196,0.234,1.196,0.234,true,true,0.7,1.8,43.5,49.0,y,lo,"","",true
+fallTime,MOSFETs,false,,1368,9,2010,2022,226,1.292,0.226,1.292,0.226,true,true,1.2e-9,1e-8,4.2600000000000003e-7,19.0,y,lo,"","",true
+voltageRegulationAccuracy,LDO Voltage Regulators,false,,3604,16,2006,2022,13,0.301,0.222,0.301,0.222,true,true,0.5,1.0,2.5,4.0,y,lo,"","",true
+currentOnStateItRmsMax,TRIACs,false,,2757,14,2002,2021,35,0.217,0.477,0.477,0.217,true,true,0.2,8.0,40.0,650.0,y,hi,"","",true
+currentRatingAmps,"RF FETs, MOSFETs",false,,1179,13,2002,2022,189,0.211,3.0,3.0,0.211,true,true,1.0000000000000001e-7,0.03,60.0,88.0,y,hi,"","",true
+voltageCollectorEmitterBreakdownMax,"Bipolar Transistor Arrays, Pre-Biased",false,,1662,10,2002,2021,6,0.204,0.0,0.204,0.204,true,true,15.0,50.0,80.0,80.0,y,hi,"","",true
+voltageCollectorEmitterBreakdownMax,"Single, Pre-Biased Bipolar Transistors",false,,3338,16,2002,2021,9,0.204,0.523,0.523,0.204,true,true,12.0,50.0,80.0,80.0,y,hi,"","",true
+loadCurrentRating,Solid State Relays - PCB Mount,false,,1758,10,2002,2021,92,0.204,0.301,0.301,0.204,true,true,0.01,0.25,25.0,150.0,y,hi,"","",true
+millicandelaRating,"Panel Indicators, Pilot Lights",false,,7522,22,2001,2022,317,0.201,0.194,0.201,0.201,true,true,0.0002,0.22,27.0,61.0,y,hi,"","",true
+psrrRippleRejectionTyp,LDO Voltage Regulators,false,,3553,15,2007,2022,41,0.196,0.222,0.222,0.196,true,true,30.0,70.0,98.0,110.0,y,hi,"","",true
+impedanceMaxZzt,Zener Diode Arrays,false,,1877,13,2002,2018,66,0.0,0.192,0.192,0.192,true,true,4.0,55.0,240.0,480.0,y,lo,"","",true
+powerWatts,"AC DC Converters, Offline Switchers",false,,2254,17,2002,2022,187,0.191,0.301,0.301,0.191,true,true,0.4,27.0,290.0,600.0,y,hi,"","",true
+voltageIsolation,"Transistor, Photovoltaic Output Optoisolators",true,hi,9826,23,2000,2022,24,0.19,0.398,0.398,0.19,true,true,500.0,5000.0,5300.0,50000.0,y,hi,"","",true
+currentOutputChannel,Full Half-Bridge (H Bridge) Drivers,false,,687,8,2012,2022,86,0.176,0.384,0.384,0.176,true,true,0.004,9.0,86.0,100.0,y,hi,"","",true
+impedanceMaxZzt,Single Zener Diodes,false,,46757,23,2000,2022,251,0.013,0.176,0.176,0.176,true,true,0.12,40.0,1600.0,3000.0,y,lo,"","",true
+currentDcForwardIfMax,"Transistor, Photovoltaic Output Optoisolators",false,,9818,23,2000,2022,27,0.176,0.0,0.176,0.176,true,true,0.001,0.05,0.1,1.0,y,hi,"","",true
+currentCollectorIcMax,Bipolar Transistor Arrays,false,,1179,10,2002,2021,36,0.169,1.0,1.0,0.169,true,true,0.01,0.2,5.0,7.5,y,hi,"","",true
+maxOutputFreq,Clock Generators & Support Products,false,,8871,11,2010,2022,18,0.161,0.301,0.301,0.161,true,true,10000000.0,350000000.0,1028000000.0,1300000000.0,y,hi,"","",true
+voltageCollectorEmitterBreakdownMax,Single IGBTs,false,,3744,17,2002,2022,50,0.158,0.125,0.158,0.158,true,true,250.0,600.0,3000.0,4500.0,y,hi,"","",true
+currentSupply,"Sensor, Transducer Amplifiers",false,,236,2,2007,2017,49,2.301,3.535,3.535,3.535,false,true,3.5000000000000004e-7,0.04,600.0,600.0,y,lo,"","",false
+powerWatts,"Laser Diodes, Modules",false,,587,7,2007,2021,114,3.319,0.0,3.319,3.319,false,true,0.0002,0.01,250.0,250.0,y,hi,"","",false
+currentRatingAmps,"Laser Diodes, Modules",false,,525,6,2007,2021,80,2.976,0.544,2.976,2.976,false,true,0.002,0.07,280.0,284.0,y,hi,"","",false
+responseTime,Photointerrupters - Slot Type - Transistor Output,false,,257,4,2002,2017,23,1.125,2.875,2.875,2.875,false,true,2e-8,0.000019999999999999998,0.001,0.002,y,lo,"","",false
+framesPerSecond,Camera Modules,false,,841,7,2016,2022,102,2.699,0.477,2.699,2.699,false,true,6.1,60.0,80000.0,80000.0,y,hi,"","",false
+pdPowerDissipation,Solid State Relays - PCB Mount,false,,513,6,2012,2021,34,2.574,0.176,2.574,2.574,false,true,0.0012,0.65,1.6,75000000.0,y,hi,"","",false
+responseTime,"Humidity, Moisture Sensors",false,,784,6,2012,2022,25,0.0,2.456,2.456,2.456,false,true,0.014,20.0,60.0,300.0,y,lo,"","",false
+pdPowerDissipation,IGBT Modules,false,,168,3,2007,2017,161,2.408,3.607,3.607,2.408,false,true,0.02,1000.0,2400000.0,3000000.0,y,hi,"","",false
+currentOutput,Current Regulation/Management,false,,417,7,2010,2021,80,2.079,0.678,2.079,2.079,false,true,0.000059999999999999995,0.5,60.0,150.0,y,hi,"","",false
+currentSupplyMax,FIFOs Memory,false,,1343,6,2001,2007,26,0.602,1.699,1.699,1.699,false,true,0.000039999999999999996,0.055,0.4,0.5,y,lo,"","",false
+millicandelaRating,Lamp Replacements,false,,585,6,2007,2018,164,1.579,0.981,1.579,1.579,false,true,0.0021000000000000003,0.775,23.8,106.2,y,hi,"","",false
+ifForwardCurrent,Single Color LEDs,false,,597,7,2003,2022,32,1.447,1.301,1.447,1.447,false,true,0.0005,0.03,1.4,8.0,y,hi,"","",false
+maximumClockFrequency,RF System on a Chip - SoC,false,,1048,7,2016,2023,35,1.426,3.0,3.0,1.426,false,true,32000.0,64000000.0,2483000000.0,64000000000.0,y,hi,"","",false
+powerRating,Single Color LEDs,false,,298,4,2007,2022,104,1.341,0.0,1.341,1.341,false,true,0.0036000000000000003,0.11,3.5,10.0,y,hi,"","",false
+responseTime,Photodiodes,false,,501,5,2006,2017,97,2.125,1.155,2.125,1.155,false,true,1.6670000000000002e-11,2e-8,0.003,0.01,y,lo,"","",false
+voltageLoad_max,Full Half-Bridge (H Bridge) Drivers,false,,585,7,2012,2022,69,1.125,0.379,1.125,1.125,false,true,2.3,18.0,600.0,700.0,y,hi,"","",false
+sustainedRead,Memory Cards,false,,879,6,2017,2022,98,0.977,0.282,0.977,0.977,false,true,4.0,91.0,1600.0,5313.0,y,hi,"","",false
+powerMax,Bipolar RF Transistors,false,,851,6,2002,2017,155,0.969,0.0,0.969,0.969,false,true,0.016,0.25,940.0,11600.0,y,hi,"","",false
+currentSupply,Distance Measuring,false,,263,3,2017,2021,52,0.301,0.87,0.87,0.87,false,true,0.0027,0.108,1.6,3.0,y,lo,"","",false
+luminousFluxRadiantFlux,Single Color LEDs,false,,291,4,2017,2022,228,0.807,0.296,0.807,0.807,false,true,0.014,22.4,560.0,5630.0,y,hi,"","",false
+sustainedWrite,Memory Cards,false,,877,6,2017,2022,130,0.788,0.179,0.788,0.788,false,true,4.0,55.0,510.0,3100.0,y,hi,"","",false
+currentCollectorIcMax,Bipolar RF Transistors,false,,844,6,2002,2017,89,0.62,0.0,0.62,0.62,false,true,0.00125,0.06,32.5,250.0,y,hi,"","",false
+luminousIntensity,Single Color LEDs,false,,442,6,2003,2022,307,0.604,0.0,0.604,0.604,false,true,0.0003,0.3125,62.7,126.0,y,hi,"","",false
+flashSize,System On Chip (SoC),false,,744,6,2010,2020,10,0.592,0.0,0.592,0.592,false,true,128000.0,256000.0,32000000000.0,64000000000.0,y,hi,"","",false
+fallTime,Gate Drivers,false,,792,5,2017,2022,60,0.445,0.523,0.523,0.523,false,true,1.8000000000000002e-9,1.5000000000000002e-8,1.95e-6,0.003,y,lo,"","",false
+maxOutputFreq,Clock Synthesizer / Jitter Cleaner,false,,2099,6,2014,2022,12,0.493,0.0,0.493,0.493,false,true,75000000.0,350000000.0,3200000000.0,6000000000.0,y,hi,"","",false
+voltageCollectorEmitterBreakdownMax,Bipolar RF Transistors,false,,857,6,2002,2017,52,0.488,0.157,0.488,0.488,false,true,2.25,12.0,75.0,200.0,y,hi,"","",false
+operatingSupplyCurrent,Gate Drivers,false,,558,3,2020,2022,78,0.0,0.485,0.485,0.485,false,true,5.0000000000000004e-8,0.00204,0.48,1.0,y,lo,"","",false
+frequencyTransition,Bipolar RF Transistors,false,,771,6,2002,2017,109,0.477,0.0,0.477,0.477,false,true,30000000.0,7000000000.0,60000000000.0,85000000000.0,y,hi,"","",false
+rdsOnDrainSourceResistance,Galvanically Isolated Gate Drivers,false,,613,3,2017,2022,18,0.0,0.39,0.39,0.39,false,true,0.5,2.7,15.0,15.0,y,lo,"","",false
+pdPowerDissipation,Clock Synthesizer / Jitter Cleaner,false,,2094,6,2014,2022,23,0.383,0.0,0.383,0.383,false,true,0.076,0.9,2.9,2.9,y,hi,"","",false
+currentOnStateItRmsMax,"Triac, SCR Output Optoisolators",false,,509,5,2006,2017,13,0.301,0.301,0.301,0.301,false,true,0.015,0.1,1.0,8.0,y,hi,"","",false
+outputCurrent,LED Lighting Development Tools,false,,152,3,2012,2021,85,0.301,0.125,0.301,0.301,false,true,0.0005,0.355,4.5,20.0,y,hi,"","",false
+currentCollectorIcMax,Photointerrupters - Slot Type - Transistor Output,false,,744,6,2002,2017,16,0.301,0.602,0.602,0.301,false,true,0.00009999999999999999,0.03,0.05,0.2,y,hi,"","",false
+frequency_max,RF Circulators,false,,1077,4,2017,2021,88,0.283,0.0,0.283,0.283,false,true,175000000.0,8000000000.0,43500000000.0,960000000000.0,y,hi,"","",false
+outputCurrent,Gate Drivers,false,,590,4,2017,2022,56,0.234,0.0,0.234,0.234,false,true,3.5e-6,4.0,50.0,60.0,y,hi,"","",false
+quiescentCurrent,Supervisory Circuits,false,,1470,3,2012,2017,17,0.0,0.222,0.222,0.222,false,true,1e-8,8.000000000000001e-7,8.099999999999999e-6,0.00031999999999999997,y,lo,"","",false
+currentDcForwardIfMax,Photointerrupters - Slot Type - Transistor Output,false,,805,6,2002,2017,12,0.222,0.426,0.426,0.222,false,true,0.005,0.05,0.06,1.0,y,hi,"","",false
+pdPowerDissipation,Galvanically Isolated Gate Drivers,false,,693,4,2017,2022,40,0.193,1.978,1.978,0.193,false,true,0.01,1.2,2.77,2.77,y,hi,"","",false
+lumensWattCurrentTest,"LED COBs, Engines, Modules, Strips",false,,26852,14,2010,2023,227,0.147,0.0,0.147,0.147,true,false,1.5,129.0,193.0,748.0,y,hi,"","",false
+operatingSupplyCurrent,Galvanically Isolated Gate Drivers,false,,710,4,2017,2022,37,0.863,0.146,0.863,0.146,false,true,0.00037999999999999997,0.007200000000000001,0.037,0.254,y,lo,"","",false
+riseTime,Gate Drivers,false,,794,5,2017,2022,56,3.398,0.143,3.398,0.143,false,true,2e-9,9.000000000000001e-9,0.000064,0.001,y,lo,"","",false
+maximumClockFrequency,CPU - Central Processing Units,false,,720,5,2017,2023,63,0.14,0.0,0.14,0.14,false,false,566000000.0,3100000000.0,5600000000.0,6000000000.0,y,hi,"","",false
+voltagePeakReverseMax,Bridge Rectifiers,false,,6591,19,2002,2022,43,0.138,0.222,0.222,0.138,true,true,20.0,600.0,1800.0,10500.0,y,hi,"","",false
+maximumInputFrequency,Clock Synthesizer / Jitter Cleaner,false,,2027,6,2014,2022,5,0.125,0.0,0.125,0.125,false,false,30000000.0,750000000.0,1000000000.0,6400000000.0,y,hi,"","",false
+currentSupply,Controllers,false,,854,13,2002,2021,118,0.0,0.125,0.125,0.125,true,false,4.9999999999999996e-6,0.02,0.56,22.36,y,lo,"","",false
+resolutionBits,CODECS,false,,813,12,2001,2013,10,0.125,0.0,0.125,0.125,true,false,8.0,24.0,32.0,32.0,y,hi,"","",false
+numberOfBits,Analog to Digital Converters (ADC),false,,9605,24,2000,2023,21,0.125,0.0,0.125,0.125,true,false,3.0,14.0,24.0,32.0,y,hi,"","",false
+currentOutputMax,"Linear, Compass (ICs)",false,,447,6,2009,2021,25,0.125,1.0,1.0,0.125,false,true,0.000016,0.01,0.04,0.13,y,hi,"","",false
+voltageCollectorEmitterBreakdownMax,Single Bipolar Transistors,false,,12315,22,2000,2022,70,0.125,0.301,0.301,0.125,true,true,10.0,50.0,550.0,1800.0,y,hi,"","",false
+loadCurrentRating,Solid State Relays - Industrial Mount,false,,2761,15,2007,2022,59,0.125,1.523,1.523,0.125,true,true,0.003,25.0,125.0,200.0,y,hi,"","",false
+frequency_max,"RF FETs, MOSFETs",false,,2492,17,2002,2022,175,0.122,0.0,0.122,0.122,true,false,13560000.0,1880000000.0,20000000000.0,40000000000.0,y,hi,"","",false
+lumensWattCurrentTest,LED White Lighting,false,,36569,18,2006,2023,234,0.121,0.0,0.121,0.121,true,false,5.0,126.0,218.0,310.0,y,hi,"","",false
+vfForwardVoltage,White LEDs,false,,1903,8,2016,2023,108,0.334,0.118,0.334,0.118,true,true,2.17,6.4,51.0,110.0,y,lo,"","",false
+pulsesPerRevolution,Encoders,false,,8736,22,2001,2022,188,0.118,0.477,0.477,0.118,true,true,1.0,1000.0,65536.0,72000.0,y,hi,"","",false
+breakdownVoltage,Transient Voltage Suppression Diodes - TVS,false,,5612,20,2002,2022,392,0.112,0.262,0.262,0.112,true,true,2.2,24.4,380.0,522.5,y,hi,"","",false
+accessTime,FIFOs Memory,false,,1235,6,2001,2007,20,0.368,0.097,0.368,0.097,false,true,3.2000000000000005e-9,1e-8,3.4e-8,4.9e-8,y,lo,"","",false
+millicandelaRating,LED Character and Numeric,false,,4686,17,2001,2021,268,0.097,0.72,0.72,0.097,true,true,0.00003,0.02,0.44,5.0,y,hi,"","",false
+currentSupply,Hot Swap Controllers,false,,1346,13,2000,2013,69,0.699,0.097,0.699,0.097,true,true,4e-6,0.0014,0.009000000000000001,15.0,y,lo,"","",false
+ifForwardCurrent,White LEDs,false,,1893,8,2016,2023,59,0.097,0.602,0.602,0.097,true,true,0.0005,0.27,2.4,6.0,y,hi,"","",false
+maximumClockFrequency,NOR Flash,false,,1721,11,2012,2022,20,0.081,0.146,0.146,0.081,true,false,40000000.0,120000000.0,200000000.0,250000000.0,y,hi,"","",false
+currentDcForwardIfMax,Logic Output Optoisolators,false,,1503,12,2002,2021,16,0.079,0.301,0.301,0.079,true,true,0.0016,0.02,0.06,0.1,y,hi,"","",false
+responseFrequency,Proximity Sensors - Industrial,false,,7791,22,2000,2021,56,0.079,1.398,1.398,0.079,true,true,0.1,500.0,5000.0,300000.0,y,hi,"","",false
+frequency_max,"Position, Proximity, Speed (Modules)",false,,481,4,2017,2021,44,0.079,2.0,2.0,0.079,false,true,1.0,1000.0,60000.0,200000.0,y,hi,"","",false
+frequencyTransition,"Bipolar Transistor Arrays, Pre-Biased",false,,731,4,2012,2018,18,0.079,0.273,0.273,0.079,false,true,35000000.0,250000000.0,300000000.0,300000000.0,y,hi,"","",false
+luminousFluxRadiantFlux,White LEDs,false,,1798,8,2016,2023,631,0.078,1.483,1.483,0.078,true,true,0.724,350.0,11000.0,22800.0,y,hi,"","",false
+powerRating,White LEDs,false,,1387,8,2016,2023,124,0.074,0.746,0.746,0.074,true,true,0.014,2.268,61.08,275.0,y,hi,"","",false
+vfForwardVoltage,LED Panel Mount Indicators,false,,2015,13,2004,2021,34,0.283,0.071,0.283,0.071,true,true,1.7,3.3,220.0,230.0,y,lo,"","",false
+gain,Bipolar RF Transistors,false,,396,4,2002,2017,77,0.07,0.0,0.07,0.07,false,false,1.4,13.0,27.0,53.0,y,hi,"","",false
+powerMax,Zener Diode Arrays,false,,1938,13,2002,2018,14,0.067,0.079,0.079,0.067,true,false,0.03,0.3,0.35000000000000003,1.5,y,hi,"","",false
+gain,"RF FETs, MOSFETs",false,,2437,17,2002,2022,206,0.06,0.187,0.187,0.06,true,true,4.6,17.5,32.0,38.0,y,hi,"","",false
+operatingTemperatureJunction_max,Diode Arrays,false,,12156,24,2000,2023,15,0.058,0.097,0.097,0.058,true,false,40.0,150.0,175.0,200.0,y,hi,"","",false
+vfForwardVoltage,Single Color LEDs,false,,506,6,2007,2022,70,0.918,0.051,0.918,0.051,false,true,1.6,2.25,24.0,28.0,y,lo,"","",false
+voltageForwardVfTyp,LED Character and Numeric,false,,4700,18,2001,2021,60,0.377,0.051,0.377,0.051,true,true,1.6,2.1,7.4,21.0,y,lo,"","",false
+operatingSupplyCurrent,Clock Synthesizer / Jitter Cleaner,false,,2101,6,2014,2022,21,0.136,0.051,0.136,0.051,false,false,0.004,0.135,0.4,0.98,y,lo,"","",false
+vdsDrainSourceBreakdownVoltage,MOSFETs,false,,1923,11,2007,2022,40,0.051,0.222,0.222,0.051,true,true,10.0,60.0,800.0,1700.0,y,hi,"","",false
+powerMax,JFETs,false,,363,5,2001,2017,34,0.049,0.523,0.523,0.049,false,true,0.03,0.35000000000000003,282.0,789.0,y,hi,"","",false
+operatingTemperatureJunction_max,Single Diodes,false,,36748,24,2000,2023,24,0.046,0.0,0.046,0.046,true,false,70.0,150.0,200.0,250.0,y,hi,"","",false
+irMaximumReverseLeakageCurrent,Zener Diodes,false,,1931,12,2002,2021,40,0.176,0.046,0.176,0.046,true,true,1e-8,2.7e-6,0.00009999999999999999,0.02,y,lo,"","",false
+voltageForwardVfTyp,LED Color Lighting,false,,4214,16,2006,2023,130,0.83,0.046,0.83,0.046,true,true,1.69,2.85,12.0,36.3,y,lo,"","",false
+voltageOnStateVtmMax,SCRs,false,,2797,15,2002,2022,94,0.168,0.036,0.168,0.036,true,true,1.14,1.6,4.2,4.2,y,lo,"","",false
+voltageIsolation,Logic Output Optoisolators,false,,1623,12,2002,2021,13,0.028,0.222,0.222,0.028,true,true,1500.0,3750.0,7500.0,50000.0,y,hi,"","",false
+voltageForwardVfTyp,LED Indication - Discrete,false,,18090,23,2000,2022,117,0.66,0.026,0.66,0.026,true,true,1.2,2.2,4.3,16.0,y,lo,"","",false
+maximumInputFrequency,Clock Generators & Support Products,false,,8860,11,2010,2022,18,0.024,3.62,3.62,0.024,true,true,16000.0,350000000.0,750000000.0,1250000000.0,y,hi,"","",false
+criColorRenderingIndex,LED White Lighting,false,,29957,17,2007,2023,22,0.023,0.0,0.023,0.023,true,false,50.0,80.0,95.0,98.0,y,hi,"","",false
+colorRenderingIndexCri,White LEDs,false,,1685,8,2016,2023,8,0.023,0.0,0.023,0.023,true,false,65.0,80.0,95.0,95.0,y,hi,"","",false
+voltageForwardVfTyp,Logic Output Optoisolators,false,,1435,12,2002,2021,24,0.026,0.018,0.026,0.018,true,false,1.1,1.5,1.65,1.8,y,lo,"","",false
+frequencyTransition,"Single, Pre-Biased Bipolar Transistors",false,,2360,13,2002,2021,22,0.017,0.097,0.097,0.017,true,false,30000000.0,250000000.0,260000000.0,300000000.0,y,hi,"","",false
+clockFrequency,I/O Expanders,false,,719,8,2002,2021,11,0.017,0.0,0.017,0.017,true,false,100000.0,400000.0,26000000.0,26000000.0,y,hi,"","",false
+temperatureCoefficient,RTD (Resistance Temperature Detector),false,,813,6,2012,2021,15,0.0,0.011,0.011,0.011,false,false,3750.0,3850.0,6370.0,6720.0,y,lo,"","",false
+voltageForwardVfTyp,LED White Lighting,false,,38269,18,2006,2023,229,1.125,0.008,1.125,0.008,true,true,2.5,3.0,46.0,220.0,y,lo,"","",false
+voltageBreakdownMin,TVS Diodes,false,,85067,24,2000,2023,1092,0.006,0.226,0.226,0.006,true,true,0.6,31.1,456.0,835.0,y,hi,"","",false
+luminousIntensity,White LEDs,false,,305,3,2017,2022,127,0.0,0.252,0.252,0.0,false,true,0.065,59.1,1890.0,1890.0,y,hi,"","",false
+voltageForwardVfTyp,Lamp Replacements,false,,667,5,2007,2017,28,0.301,0.0,0.301,0.0,false,true,1.7,24.0,240.0,600.0,y,lo,"","",false
+voltageDcReverseVrMax,Single Diodes,false,,41001,24,2000,2023,127,0.0,0.0,0.0,0.0,true,false,3.0,150.0,2200.0,200000.0,y,hi,"","",false
+powerMax,NTC Thermistors,false,,5890,19,2001,2022,75,0.0,0.0,0.0,0.0,true,false,0.001,0.1,3.7,8.0,y,hi,"","",false
+currentCollectorIcMax,Single Bipolar Transistors,false,,12214,22,2000,2022,93,0.0,0.0,0.0,0.0,true,false,9.999999999999999e-6,0.8,17.0,120.0,y,hi,"","",false
+voltageOffState,"Triac, SCR Output Optoisolators",false,,1197,10,2002,2017,8,0.0,0.0,0.0,0.0,true,false,200.0,600.0,800.0,800.0,y,hi,"","",false
+luminousIntensity,LED Panel Mount Indicators,false,,1887,12,2004,2021,87,0.0,0.0,0.0,0.0,true,false,0.002,0.12,10.0,17.0,y,hi,"","",false
+insertionLoss,Fiber Optic Cable Assemblies,false,,4412,8,2015,2022,16,0.0,0.0,0.0,0.0,true,false,0.07,0.3,0.6,7.5,y,lo,"","",false
+sensingTemperatureLocal_max,Analog and Digital Output,false,,2738,21,2000,2022,25,0.0,0.0,0.0,0.0,true,false,29.0,125.0,395.0,395.0,y,hi,"","",false
+vesdVoltageEsdContact,Transient Voltage Suppression Diodes - TVS,false,,1491,8,2006,2022,15,0.0,0.0,0.0,0.0,true,false,2000.0,30000.0,30000.0,30000.0,y,hi,"","",false
+criColorRenderingIndex,"LED COBs, Engines, Modules, Strips",false,,27496,13,2011,2023,25,0.0,0.0,0.0,0.0,true,false,60.0,80.0,95.0,98.0,y,hi,"","",false
+switchingCycles,Thermostats - Mechanical - Industrial,false,,1215,11,2004,2021,8,0.0,0.0,0.0,0.0,true,false,1000.0,100000.0,100000.0,100000.0,y,hi,"","",false
+operatingSupplyCurrent,Pressure Sensors - Industrial,false,,432,4,2017,2021,15,0.301,0.0,0.301,0.0,false,true,0.001,0.005,0.05,15.0,y,lo,"","",false
+currentCollectorIcMax,"Bipolar Transistor Arrays, Pre-Biased",false,,1670,10,2002,2021,12,0.0,0.0,0.0,0.0,true,false,0.02,0.1,0.5,1.0,y,hi,"","",false
+operatingSupplyCurrent,Battery Management,false,,213,2,2021,2022,47,5.311,0.0,5.311,0.0,false,true,7e-8,4e-6,45.0,45.0,y,lo,"","",false
+rotationalLifeCyclesMin,Encoders - Industrial,false,,1635,8,2007,2019,24,0.0,0.86,0.86,0.0,true,true,1.0,1000000.0,300000000.0,300000000.0,y,hi,"","",false
+propagationDelayMax,Galvanically Isolated Gate Drivers,false,,732,4,2017,2022,28,0.073,0.0,0.073,0.0,false,false,3.0000000000000004e-8,4.5000000000000006e-8,1.3e-7,4.5e-6,y,lo,"","",false
+dataBusWidth,NOR Flash,false,,1598,12,2002,2021,4,0.0,0.602,0.602,0.0,true,true,2.0,8.0,16.0,16.0,y,hi,"","",false
+pdPowerDissipation,LDO Voltage Regulators,false,,3313,15,2007,2022,88,0.0,0.079,0.079,0.0,true,false,0.1,0.3,3.6,18.0,y,hi,"","",false
+pulseWidthDistortion,Digital Isolators,false,,1409,14,2008,2022,46,4.096,0.0,4.096,0.0,true,true,2e-10,4.500000000000001e-9,8e-8,0.0007,y,lo,"","",false
+reverseRecoveryTimeTrr,Single IGBTs,false,,1877,13,2007,2022,290,0.092,0.0,0.092,0.0,true,false,3.0000000000000004e-9,7.7e-8,1.6999999999999998e-6,7e-6,y,lo,"","",false
+propagationDelayMax,Gate Drivers,false,,470,2,2021,2022,61,2.258,0.0,2.258,0.0,false,true,5e-9,4.33e-8,0.000145,0.00020999999999999998,y,lo,"","",false
+powerRating,NTC Thermistors,false,,180,3,2007,2017,49,0.0,0.176,0.176,0.0,false,true,0.000065,0.1,19.0,25.0,y,hi,"","",false
+operatingSupplyCurrent,Proximity Sensors,false,,648,9,2001,2019,7,0.097,0.0,0.097,0.0,true,false,0.25,0.4,1.0,1.25,y,lo,"","",false
+currentOutputChannel,"Instrumentation, Op Amps, Buffer Amps",false,,15451,24,2000,2023,196,0.0,0.097,0.097,0.0,true,false,0.000012,0.044,0.44,10.0,y,hi,"","",false
+riseTime,Galvanically Isolated Gate Drivers,false,,766,4,2017,2022,27,0.041,0.0,0.041,0.0,false,false,5e-9,1.2000000000000002e-8,3.3000000000000004e-8,1.95e-7,y,lo,"","",false
+powerWatts,Telecom,false,,94,2,2002,2007,65,0.0,0.021,0.021,0.0,false,false,0.01,0.75,520.0,520.0,y,hi,"","",false
+voltageForwardVfTyp,"Triac, SCR Output Optoisolators",false,,1026,10,2002,2017,12,0.0,0.0,0.0,0.0,true,false,1.1,1.2,1.3,1.4,y,lo,"","",false
+currentSupply,Sensor and Detector Interfaces,false,,318,5,2007,2016,109,0.0,0.0,0.0,0.0,false,false,1e-8,0.0011,0.25,0.495,y,lo,"","",false
+vfForwardVoltage,Zener Diodes,false,,624,5,2002,2017,7,0.0,0.0,0.0,0.0,false,false,0.9,1.0,1.5,1.5,y,lo,"","",false
+dataBusWidth,CPU - Central Processing Units,false,,566,5,2017,2024,2,0.0,0.0,0.0,0.0,false,false,32.0,64.0,64.0,64.0,y,hi,"","",false
+voltageCollectorEmitterBreakdownMax,Photointerrupters - Slot Type - Transistor Output,false,,794,6,2002,2017,8,0.0,0.0,0.0,0.0,false,false,12.0,30.0,70.0,70.0,y,hi,"","",false
+powerRating,Solenoids & Actuators,false,,847,3,2013,2017,71,0.0,1.097,1.097,0.0,false,true,0.49,125.0,700.0,820.0,y,hi,"","",false
+currentOutput,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",true,hi,55973,24,2000,2023,80,0.0,0.176,0.176,0.0,true,true,0.003,0.25,3.0,10.0,y,hi,"","",false
+currentSupply,Telecom,false,,543,6,2002,2012,138,0.989,0.0,0.989,0.0,false,true,1.0000000000000001e-7,0.075,1.15,8.1,y,lo,"","",false
+voltageIsolation,"Triac, SCR Output Optoisolators",false,,1134,10,2002,2017,9,0.0,0.176,0.176,0.0,true,true,2500.0,5000.0,5300.0,5300.0,y,hi,"","",false
+loadVoltageRating_max,Solid State Relays - PCB Mount,false,,783,7,2007,2021,43,0.0,0.903,0.903,0.0,false,true,5.0,250.0,1000.0,1500.0,y,hi,"","",false
+isolationVoltage,Solid State Relays - PCB Mount,false,,234,3,2012,2017,9,0.0,0.875,0.875,0.0,false,true,200.0,1500.0,5000.0,5300.0,y,hi,"","",false
+dataBusWidth,RF System on a Chip - SoC,false,,1056,7,2016,2023,3,0.0,0.0,0.0,0.0,false,false,8.0,32.0,32.0,32.0,y,hi,"","",false
+currentSupply,Gas Sensors,false,,401,6,2016,2022,80,0.824,0.0,0.824,0.0,false,true,9.999999999999999e-6,0.06,2.0,2.0,y,lo,"","",false
+switchingCycles,Thermostats - Mechanical,false,,781,6,2007,2019,9,0.0,0.699,0.699,0.0,false,true,1000.0,20000.0,100000.0,100000.0,y,hi,"","",false
+voltageForwardVfTyp,"LED COBs, Engines, Modules, Strips",false,,29257,14,2010,2023,440,0.498,0.0,0.498,0.0,true,true,1.4,34.0,110.0,230.0,y,lo,"","",false
+ifForwardCurrent,Zener Diodes,false,,207,3,2002,2017,6,0.0,0.0,0.0,0.0,false,false,0.001,0.2,1.0,1.0,y,hi,"","",false
+vesdVoltageEsdAirGap,Transient Voltage Suppression Diodes - TVS,false,,1444,8,2006,2022,16,0.0,0.273,0.273,0.0,true,true,2000.0,30000.0,30000.0,30000.0,y,hi,"","",false
+responseFrequency,Proximity Sensors,false,,409,7,2002,2017,15,0.0,0.699,0.699,0.0,false,true,2.0,600.0,4000.0,5000.0,y,hi,"","",false
+temperatureRange_max,"Thermocouples, Temperature Probes",false,,1118,8,2008,2021,54,0.0,0.291,0.291,0.0,true,true,37.7,125.0,1350.0,1750.0,y,hi,"","",false
+currentOffStateMax,SCRs,false,,2683,14,2002,2022,41,0.699,0.0,0.699,0.0,true,true,1.0000000000000001e-7,0.000049999999999999996,0.25,0.5,y,lo,"","",false
+outputCurrent,Galvanically Isolated Gate Drivers,false,,747,4,2017,2022,21,0.0,0.0,0.0,0.0,false,false,0.0015,4.0,10.0,30.0,y,hi,"","",false
+voltageForwardVfTyp,"Transistor, Photovoltaic Output Optoisolators",false,,9341,22,2000,2022,49,0.301,0.0,0.301,0.0,true,true,1.0,1.2,1.7,11.0,y,lo,"","",false
+frequency_max,Current Sensors,false,,1397,9,2007,2022,55,0.0,0.903,0.903,0.0,true,true,50.0,45000.0,1000000.0,1150000.0,y,hi,"","",false
+isolationVoltage,Galvanically Isolated Gate Drivers,false,,611,3,2017,2022,13,0.0,0.0,0.0,0.0,false,false,1000.0,2500.0,5700.0,8000.0,y,hi,"","",false
+fallTime,Galvanically Isolated Gate Drivers,false,,766,4,2017,2022,26,0.0,0.0,0.0,0.0,false,false,5e-9,1.2000000000000002e-8,3.0000000000000004e-8,1.5000000000000002e-7,y,lo,"","",false
+reverseRecoveryTimeTrr,Single Diodes,false,,20711,23,2000,2022,341,0.724,0.0,0.724,0.0,true,true,1e-10,5.0000000000000004e-8,7e-6,0.0003,y,lo,"","",false
+recoveryTime,Rectifiers,false,,1687,13,2002,2022,63,0.368,0.0,0.368,0.0,true,true,4e-9,5.0000000000000004e-8,2.8e-6,0.00015,y,lo,"","",false
+currentSupply,Photo Detectors - Remote Receiver,false,,1042,7,2006,2019,29,0.301,0.0,0.301,0.0,false,true,0.00019999999999999998,0.00045,0.003,0.7000000000000001,y,lo,"","",false
+testCurrent,Zener Diodes,false,,2312,14,2002,2022,133,0.398,1.342,1.342,,true,true,5.000000000000001e-7,0.005,0.064,2.0,n,"","","",false
+numberOfCircuits,"Clock Buffers, Drivers",false,,2759,17,2001,2022,6,0.0,0.0,0.0,,true,false,1.0,1.0,2.0,12.0,n,"","","",false
+voltageSupply_min,"Humidity, Moisture Sensors",false,,423,6,2012,2022,39,0.0,0.0,0.0,,false,false,1.0,2.3,24.0,48.0,n,"","","",false
+voltageSupply_max,"Signal Switches, Multiplexers, Decoders",false,,2316,13,2000,2021,23,0.477,0.278,0.477,,true,true,1.9,5.5,18.0,18.0,n,"","","",false
+voltageSupplyAnalog_min,Analog to Digital Converters (ADC),false,,8293,23,2000,2022,50,0.477,0.442,0.477,,true,true,0.93,2.7,5.0,15.0,n,"","","",false
+numberOfCharacters,LED Character and Numeric,false,,4829,19,2001,2021,10,0.477,0.0,0.477,,true,true,1.0,2.0,4.0,8.0,n,"","","",false
+numberOfChannels,Hot Swap Controllers,false,,1484,13,2000,2013,9,0.477,0.0,0.477,,true,true,1.0,1.0,6.0,12.0,n,"","","",false
+inputVoltageMin,Gate Drivers,false,,194,2,2021,2022,15,0.0,0.0,0.0,,false,false,2.5,8.5,23.5,23.5,n,"","","",false
+numberOfOutputs,LED Drivers,false,,6281,21,2002,2022,26,0.477,0.0,0.477,,true,true,1.0,1.0,32.0,96.0,n,"","","",false
+numberOfCircuits,"Translators, Level Shifters",false,,1790,14,2000,2021,4,0.477,0.0,0.477,,true,true,1.0,1.0,4.0,6.0,n,"","","",false
+numberOfOutputs,Voltage Regulators - Linear + Switching,false,,1050,12,2002,2022,15,0.477,0.301,0.477,,true,true,1.0,3.0,9.0,17.0,n,"","","",false
+voltageSupply_min,Telecom,false,,1007,8,2002,2018,38,0.477,0.079,0.477,,true,true,0.95,3.135,10.0,150.0,n,"","","",false
+voltageSupplyDigital_min,Digital to Analog Converters (DAC),false,,6405,23,2000,2022,42,0.0,0.469,0.469,,true,true,0.4,2.7,5.0,20.0,n,"","","",false
+heightMax,LED Indication - Discrete,false,,21066,24,2000,2023,455,0.467,0.255,0.467,,true,true,0.00008,0.0021000000000000003,0.01328,0.0838,n,"","","",false
+currentTest,LED Indication - Discrete,false,,18355,23,2000,2022,40,0.845,1.301,1.301,,true,true,0.0005,0.02,0.1,1.0,n,"","","",false
+numberOfChannels,Analog Switches - Special Purpose,false,,1327,16,2000,2022,17,0.464,0.0,0.464,,true,true,1.0,2.0,24.0,40.0,n,"","","",false
+numberOfInputs,Analog to Digital Converters (ADC),false,,8068,23,2000,2022,17,0.464,0.0,0.464,,true,true,1.0,1.0,16.0,256.0,n,"","","",false
+voltageSupply_min,"Clock Buffers, Drivers",false,,2565,17,2001,2022,35,0.18,0.459,0.459,,true,true,0.5,2.375,4.75,4.75,n,"","","",false
+supplyVoltageMax,Photoelectric Sensors,false,,1303,14,2002,2021,21,0.024,0.456,0.456,,true,true,3.6,30.0,264.0,305.0,n,"","","",false
+resistanceWiperOhmsTyp,Digital Potentiometers,false,,3016,15,2000,2021,46,0.398,0.456,0.456,,true,true,1.0,75.0,610.0,5000.0,n,"","","",false
+supplyVoltageMax,NOR Flash,false,,1937,13,2002,2022,8,0.0,0.456,0.456,,true,true,1.26,3.6,3.6,5.5,n,"","","",false
+currentTest,"RF FETs, MOSFETs",false,,2370,17,2002,2022,162,1.301,0.699,1.301,,true,true,0.001,0.25,5.0,50.0,n,"","","",false
+voltageSupplyMax,Battery Chargers,false,,2836,23,2000,2022,78,0.456,0.222,0.456,,true,true,1.98,10.0,60.0,80.0,n,"","","",false
+height,Rectifiers,false,,933,10,2002,2021,44,0.456,0.076,0.456,,true,true,0.00098,0.00272,0.026000000000000002,0.035,n,"","","",false
+outputVoltage,LDO Voltage Regulators,false,,4256,16,2006,2022,121,0.452,0.38,0.452,,true,true,0.4,2.8,12.0,40.0,n,"","","",false
+width,Rectifiers,false,,891,9,2002,2017,45,0.451,0.097,0.451,,true,true,0.0016,0.0036000000000000003,0.0257,0.1515,n,"","","",false
+voltageSupply_max,Gate Drivers,false,,4338,24,2000,2023,81,0.449,0.314,0.449,,true,true,3.3,18.0,100.0,450.0,n,"","","",false
+voltageInputMax,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",false,,57229,24,2000,2023,91,0.301,0.444,0.444,,true,true,1.5,6.0,50.0,450.0,n,"","","",false
+inputVoltage_max,Switching Voltage Regulators,false,,2345,12,2011,2022,57,0.132,0.444,0.444,,true,true,0.35000000000000003,6.0,60.0,135.0,n,"","","",false
+voltageSupply_max,Voltage Regulators - Linear + Switching,false,,1002,11,2007,2022,45,0.444,0.0,0.444,,true,true,3.3,5.5,60.0,100.0,n,"","","",false
+voltageSupplySpanMin,"Instrumentation, Op Amps, Buffer Amps",false,,18824,24,2000,2023,79,0.38,0.442,0.442,,true,true,0.65,2.7,10.0,50.0,n,"","","",false
+voltageSupply_min,Video Processing,false,,1083,14,2002,2017,51,0.439,0.155,0.439,,true,true,1.0,3.0,6.0,16.5,n,"","","",false
+factoryPackQuantity,Transient Voltage Suppression Diodes - TVS,false,,6262,20,2002,2022,38,0.38,0.951,0.951,,true,true,1.0,3000.0,15000.0,50000.0,n,"","","",false
+supplyVoltageMax,Proximity Sensors - Industrial,false,,806,6,2017,2022,15,0.0,0.0,0.0,,false,false,3.8,30.0,250.0,264.0,n,"","","",false
+factoryPackQuantity,White LEDs,false,,2058,10,2012,2023,39,1.347,0.0,1.347,,true,true,1.0,2000.0,16000.0,100000.0,n,"","","",false
+factoryPackQuantity,Solid State Relays - Industrial Mount,false,,4180,18,2005,2022,29,0.416,0.0,0.416,,true,true,1.0,10.0,50.0,270.0,n,"","","",false
+wavelength,"LED Emitters - Infrared, UV, Visible",false,,2608,15,2002,2022,150,0.384,0.416,0.416,,true,true,2.2500000000000002e-7,8.6e-7,1.65e-6,4.3e-6,n,"","","",false
+factoryPackQuantity,Switching Voltage Regulators,false,,4706,15,2008,2023,54,0.079,1.377,1.377,,true,true,1.0,3000.0,6000.0,10000.0,n,"","","",false
+inputVoltageMax,Switching Voltage Regulators,false,,4003,14,2008,2022,58,0.222,0.402,0.402,,true,true,1.98,6.0,60.0,135.0,n,"","","",false
+voltageInputMax,Voltage Regulators - DC DC Switching Regulators,false,,31161,24,2000,2023,141,0.398,0.301,0.398,,true,true,1.5,6.0,76.0,560.0,n,"","","",false
+voltageSupply_min,"LCD, OLED Character and Numeric",false,,1819,17,2001,2021,37,1.388,0.051,1.388,,true,true,2.4,4.75,9.0,250.0,n,"","","",false
+numberOfOutputs,"Power Distribution Switches, Load Drivers",false,,6396,24,2000,2023,14,0.398,0.0,0.398,,true,true,1.0,1.0,8.0,32.0,n,"","","",false
+factoryPackQuantity,Supervisory Circuits,false,,5854,9,2008,2022,14,0.398,0.0,0.398,,true,true,1.0,3000.0,10000.0,10000.0,n,"","","",false
+voltageSupply_max,Memory,false,,41820,24,2000,2023,50,0.0,0.398,0.398,,true,true,1.05,3.6,5.5,6.0,n,"","","",false
+currentTest,LED Character and Numeric,false,,4752,18,2001,2021,14,0.176,1.398,1.398,,true,true,0.0004,0.02,0.02,0.1,n,"","","",false
+factoryPackQuantity,LED Panel Mount Indicators,false,,4269,16,2004,2021,14,0.699,1.398,1.398,,true,true,1.0,25.0,100.0,10000.0,n,"","","",false
+outputVoltageChannel1,LED Drivers Power Supplies,false,,1595,13,2010,2022,75,0.488,0.0,0.488,,true,true,2.0,30.0,370.0,550.0,n,"","","",false
+voltageSupply_min,Encoders,false,,9840,18,2002,2022,26,0.391,0.18,0.391,,true,true,2.5,5.0,18.0,42.0,n,"","","",false
+voltageSupply_min,Controllers,false,,1212,16,2000,2021,45,0.347,0.39,0.39,,true,true,0.9,3.0,4.75,25.0,n,"","","",false
+voltageSupply_min,Analog and Digital Output,false,,2833,22,2000,2022,47,0.372,0.39,0.39,,true,true,1.08,3.0,13.5,21.6,n,"","","",false
+wavelength,LED Color Lighting,false,,168,2,2021,2022,69,0.0,0.0,0.0,,false,false,4.5000000000000003e-7,5.875000000000001e-7,1800000.0,1800000.0,n,"","","",false
+voltageOutput_min,LED Drivers,false,,3080,18,2004,2022,163,1.135,1.447,1.447,,true,true,0.1,20.0,300.0,650.0,n,"","","",false
+factoryPackQuantity,SRAM,false,,8630,17,2001,2018,23,1.474,0.653,1.474,,true,true,1.0,15.0,105.0,2500.0,n,"","","",false
+voltageSupply_min,"Pressure Sensors, Transducers",false,,22182,23,2000,2022,62,0.146,0.385,0.385,,true,true,0.3,10.0,16.0,120.0,n,"","","",false
+temperatureRange_min,"Thermocouples, Temperature Probes",false,,0,0,,,14,0.0,0.0,0.0,,false,false,1.0,191.5,1200.0,1200.0,n,"","","",false
+voltageSupplyAnalog_min,Digital to Analog Converters (DAC),false,,5850,21,2000,2022,34,0.38,0.178,0.38,,true,true,1.6,2.7,5.0,14.25,n,"","","",false
+voltageOutputMinFixed,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",false,,53208,24,2000,2023,295,0.0,0.38,0.38,,true,true,0.2,2.85,15.0,24.0,n,"","","",false
+operatingSupplyVoltage,Solid State Drives - SSD,false,,2670,11,2013,2023,5,0.38,0.041,0.38,,true,true,3.0,3.3,12.0,12.0,n,"","","",false
+voltageInput_min,Voltage Reference,false,,2707,18,2000,2022,111,0.38,0.204,0.38,,true,true,0.05,3.4,13.2,37.0,n,"","","",false
+voltageInput_max,Special Purpose Regulators,false,,3724,23,2000,2022,78,0.319,0.924,0.924,,true,true,0.5,10.0,75.0,90.0,n,"","","",false
+voltageSupplyMin,LED Drivers,false,,6031,21,2002,2022,112,1.301,0.643,1.301,,true,true,0.15,3.5,85.0,120.0,n,"","","",false
+supplyVoltageMin,NOR Flash,false,,1936,13,2002,2022,9,0.0,0.374,0.374,,true,true,1.14,2.65,2.7,4.5,n,"","","",false
+wavelength,"Laser Diodes, Modules",false,,653,8,2007,2022,90,0.372,0.109,0.372,,true,true,3.75e-7,6.5e-7,1.65e-6,2.0000000000000003e-6,n,"","","",false
+sensingTemperatureLocal_min,Analog and Digital Output,false,,0,0,,,5,0.0,0.0,0.0,,false,false,1.5,1.5,20.0,75.0,n,"","","",false
+voltageSupplyVccVdd_max,"AC DC Converters, Offline Switchers",false,,2627,19,2002,2023,87,1.477,0.391,1.477,,true,true,3.78,25.0,375.0,1200.0,n,"","","",false
+currentTest,LED White Lighting,false,,38231,18,2006,2023,71,0.778,1.243,1.243,,true,true,0.005,0.35000000000000003,1.4,10.5,n,"","","",false
+factoryPackQuantity,Digital Isolators,false,,3203,19,2004,2022,42,0.368,0.181,0.368,,true,true,1.0,400.0,3000.0,3500.0,n,"","","",false
+factoryPackQuantity,NTC Thermistors,false,,995,7,2007,2021,35,0.0,0.0,0.0,,false,false,1.0,250.0,10000.0,50000.0,n,"","","",false
+voltageSupply_min,Logic Output Optoisolators,false,,1451,11,2002,2021,15,0.359,0.135,0.359,,true,true,2.2,4.5,16.0,20.0,n,"","","",false
+voltageSupply_max,Full Half-Bridge (H Bridge) Drivers,false,,810,9,2007,2022,53,0.28,0.357,0.357,,true,true,1.98,13.0,52.0,80.0,n,"","","",false
+diameter,NTC Thermistors,false,,227,3,2007,2017,63,0.0,0.0,0.0,,false,false,0.00028000000000000003,0.0033750000000000004,0.029,0.039,n,"","","",false
+factoryPackQuantity,Rectifiers,false,,5214,19,2002,2022,62,0.146,0.477,0.477,,true,true,1.0,2000.0,14000.0,99999.0,n,"","","",false
+beamAngle,"Ultrasonic Receivers, Transmitters",false,,1478,10,2011,2022,43,0.352,0.146,0.352,,true,true,5.0,23.0,85.0,360.0,n,"","","",false
+voltageSupply_max,Audio Amplifiers,false,,3081,19,2000,2021,87,0.348,0.301,0.348,,true,true,1.3,5.5,52.5,78.0,n,"","","",false
+voltageSupply_max,"Power Supply Controllers, Monitors",false,,1510,19,2000,2022,61,0.347,0.3,0.347,,true,true,2.63,14.0,100.0,100.0,n,"","","",false
+zenerCurrent,Zener Diodes,false,,1789,12,2002,2021,149,0.0,0.347,0.347,,true,true,4.5000000000000006e-8,4.9999999999999996e-6,1.0,2.0,n,"","","",false
+voltageVccb_max,"Translators, Level Shifters",false,,1227,13,2001,2021,19,0.347,0.255,0.347,,true,true,1.98,5.5,18.0,40.0,n,"","","",false
+voltageSupplyVccVdd_min,"AC DC Converters, Offline Switchers",false,,2620,19,2002,2023,96,1.495,0.477,1.495,,true,true,0.8,8.7,85.0,375.0,n,"","","",false
+resistorEmitterBaseR2,"Bipolar Transistor Arrays, Pre-Biased",false,,1325,9,2002,2021,7,0.0,0.342,0.342,,true,true,1000.0,47000.0,100000.0,100000.0,n,"","","",false
+resistorEmitterBaseR2,"Single, Pre-Biased Bipolar Transistors",false,,2678,15,2002,2021,12,0.0,0.342,0.342,,true,true,1000.0,22000.0,100000.0,100000.0,n,"","","",false
+resistorBaseR1,"Bipolar Transistor Arrays, Pre-Biased",false,,1710,11,2002,2021,12,0.0,0.342,0.342,,true,true,220.0,10000.0,100000.0,100000.0,n,"","","",false
+voltageSupply_min,Application Specific Clock/Timing,false,,2085,15,2002,2022,40,0.0,0.341,0.341,,true,true,1.05,3.135,4.5,5.0,n,"","","",false
+voltageInput_max,Voltage Reference,false,,2707,18,2000,2022,27,0.046,0.341,0.341,,true,true,2.49,12.6,40.0,40.0,n,"","","",false
+voltageSupply_max,Application Specific Clock/Timing,false,,2085,15,2002,2022,29,0.0,0.34,0.34,,true,true,1.2,3.465,5.25,6.5,n,"","","",false
+voltageSupply_min,Accelerometers,false,,1109,14,2003,2021,43,0.0,0.339,0.339,,true,true,1.1,3.0,18.0,21.6,n,"","","",false
+voltageSupply_max,Audio Special Purpose,false,,500,8,2002,2017,58,0.301,0.339,0.339,,true,true,1.05,5.0,26.0,36.0,n,"","","",false
+voltageSupply_max,"Clock Generators, PLLs, Frequency Synthesizers",false,,6051,23,2000,2022,35,0.477,0.155,0.477,,true,true,1.575,3.6,5.5,18.0,n,"","","",false
+voltageSupply_min,"Buffers, Drivers, Receivers, Transceivers",false,,4552,17,2000,2021,26,0.046,0.333,0.333,,true,true,0.65,2.0,4.75,10.0,n,"","","",false
+voltageSupply_max,Application Specific Microcontrollers,false,,916,12,2006,2022,34,0.913,0.439,0.913,,true,true,1.2,5.25,36.0,60.0,n,"","","",false
+length,White LEDs,false,,1890,8,2016,2023,61,0.0,0.331,0.331,,true,true,0.0006,0.005,0.03485,0.038,n,"","","",false
+inputLogicLevelHigh_min,Gates and Inverters,false,,5087,17,2000,2021,56,0.028,0.33,0.33,,true,true,0.1,1.6,4.0,4.95,n,"","","",false
+voltageSupply_max,FPGAs (Field Programmable Gate Array),false,,18959,24,2000,2023,32,0.164,0.327,0.327,,true,true,0.742,1.15,3.465,5.5,n,"","","",false
+voltageSupply_min,"Signal Switches, Multiplexers, Decoders",false,,2316,13,2000,2021,30,0.022,0.314,0.314,,true,true,0.7,2.97,4.75,5.0,n,"","","",false
+voltageSupply_min,FPGAs (Field Programmable Gate Array),false,,18959,24,2000,2023,34,0.093,0.31,0.31,,true,true,0.698,1.07,2.375,4.5,n,"","","",false
+voltageOutputMax,Voltage Reference,false,,1462,13,2000,2021,34,0.034,0.304,0.304,,true,true,1.251,20.0,37.0,40.0,n,"","","",false
+voltageStartUp,"AC DC Converters, Offline Switchers",false,,2083,18,2002,2023,106,0.468,1.225,1.225,,true,true,0.5,13.5,30.0,95.0,n,"","","",false
+numberOfElements,Thyristors,false,,2102,11,2002,2022,5,0.301,0.0,0.301,,true,true,1.0,1.0,6.0,6.0,n,"","","",false
+numberOfCircuits,Mixed Technology,false,,727,6,2007,2022,8,0.0,0.0,0.0,,false,false,1.0,1.0,6.0,14.0,n,"","","",false
+factoryPackQuantity,Solid State Relays - PCB Mount,false,,2116,12,2002,2021,41,0.301,0.0,0.301,,true,true,1.0,100.0,3500.0,4000.0,n,"","","",false
+voltageInput_min,Special Purpose Regulators,false,,3710,23,2000,2022,104,0.477,1.544,1.544,,true,true,0.02,3.3,24.0,36.0,n,"","","",false
+numberOfLeds,Lenses,false,,2824,13,2005,2022,26,1.556,0.0,1.556,,true,true,1.0,1.0,36.0,2835.0,n,"","","",false
+viewingAngle,"LED Emitters - Infrared, UV, Visible",false,,3005,16,2002,2022,83,0.204,0.301,0.301,,true,true,4.0,70.0,160.0,290.0,n,"","","",false
+factoryPackQuantity,Fiber Optic Cable Assemblies,false,,10035,15,2008,2023,24,0.301,0.0,0.301,,true,true,1.0,1.0,100.0,1000.0,n,"","","",false
+numberOfOutputs,DC DC Switching Controllers,false,,7939,23,2000,2022,8,0.301,0.0,0.301,,true,true,1.0,1.0,5.0,8.0,n,"","","",false
+numberOfChannels,"Transistor, Photovoltaic Output Optoisolators",false,,10050,23,2000,2022,6,0.903,0.0,0.903,,true,true,1.0,1.0,4.0,32.0,n,"","","",false
+inputVoltageMin,Galvanically Isolated Gate Drivers,false,,610,3,2017,2022,11,0.0,0.0,0.0,,false,false,2.5,2.5,4.5,10.8,n,"","","",false
+supplyVoltageMax,SRAM,false,,8597,17,2001,2018,13,0.004,0.301,0.301,,true,true,1.35,1.9,3.6,5.5,n,"","","",false
+voltageSupply_min,Switches (Solid State),false,,3331,18,2002,2022,44,1.648,0.0,1.648,,true,true,0.5,2.8,10.0,250.0,n,"","","",false
+factoryPackQuantity,Memory Modules,false,,2451,12,2012,2023,8,0.301,0.0,0.301,,true,true,1.0,50.0,100.0,100.0,n,"","","",false
+voltageSupply_max,Accelerometers,false,,1109,14,2003,2021,37,0.155,0.301,0.301,,true,true,1.5,5.25,32.0,40.0,n,"","","",false
+voltageSupply_min,"Linear, Compass (ICs)",false,,815,11,2006,2022,45,0.176,0.301,0.301,,true,true,0.5,4.0,10.0,26.5,n,"","","",false
+numberOfCircuits,Application Specific Clock/Timing,false,,2376,16,2002,2022,8,0.477,0.0,0.477,,true,true,1.0,1.0,3.0,8.0,n,"","","",false
+voltageInput_min,Current Regulation/Management,false,,578,8,2004,2021,43,1.699,0.222,1.699,,true,true,0.9,2.7,120.0,900.0,n,"","","",false
+factoryPackQuantity,Gate Drivers,false,,2062,12,2011,2023,43,0.222,0.477,0.477,,true,true,1.0,48.0,3000.0,6000.0,n,"","","",false
+voltageOutput_max,Special Purpose Regulators,false,,2405,20,2000,2022,180,1.734,0.398,1.734,,true,true,0.6,3.04,220.0,650.0,n,"","","",false
+voltageSupply_max,"Photoelectric, Industrial",false,,13970,23,2000,2022,36,0.0,0.301,0.301,,true,true,5.0,30.0,250.0,305.0,n,"","","",false
+voltageSupply_min,Power Management - Specialized,false,,5159,22,2002,2023,122,0.699,1.778,1.778,,true,true,0.02,3.0,60.0,440.0,n,"","","",false
+inputVoltage_min,LED Drivers Power Supplies,false,,863,11,2009,2022,26,1.778,0.0,1.778,,true,true,4.5,100.0,254.0,360.0,n,"","","",false
+inputVoltage_min,Switching Voltage Regulators,false,,2342,12,2011,2022,63,0.0,0.301,0.301,,true,true,0.35000000000000003,2.0,45.0,50.0,n,"","","",false
+testFrequency_max,RF Amplifiers,false,,4315,20,2002,2023,298,0.477,0.0,0.477,,true,true,10000000.0,3100000000.0,75000000000.0,110000000000.0,n,"","","",false
+numberOfChannels,Logic Output Optoisolators,false,,1639,12,2002,2021,4,0.301,0.0,0.301,,true,true,1.0,1.0,4.0,4.0,n,"","","",false
+voltageSupplyMax,LED Drivers,false,,6173,21,2002,2022,126,1.86,0.148,1.86,,true,true,2.2,20.0,450.0,725.0,n,"","","",false
+width,White LEDs,false,,1890,8,2016,2023,55,0.0,0.301,0.301,,true,true,0.0003,0.005,0.03485,0.038,n,"","","",false
+factoryPackQuantity,Pressure Sensors - Industrial,false,,2599,16,2007,2023,16,0.301,0.0,0.301,,true,true,1.0,5.0,50.0,180.0,n,"","","",false
+factoryPackQuantity,"Fibre Optic Transmitters, Receivers, Transceivers",false,,1029,8,2012,2023,20,0.301,0.0,0.301,,true,true,1.0,2.0,50.0,1000.0,n,"","","",false
+numberOfCircuits,"Analog Switches, Multiplexers, Demultiplexers",false,,5587,22,2000,2022,13,0.903,0.0,0.903,,true,true,1.0,2.0,8.0,64.0,n,"","","",false
+voltageTest,"RF FETs, MOSFETs",false,,2424,17,2002,2022,51,0.301,0.0,0.301,,true,true,0.3,28.0,100.0,400.0,n,"","","",false
+numberOfElements,Flip Flops,false,,1219,10,2001,2017,4,0.301,0.0,0.301,,true,true,1.0,1.0,4.0,4.0,n,"","","",false
+inputLogicLevelLow_min,Gates and Inverters,false,,4998,17,2000,2021,44,0.028,0.301,0.301,,true,true,0.08,0.7,1.5,3.2,n,"","","",false
+numberOfInputs,Gates and Inverters,false,,5742,18,2000,2022,8,0.301,0.0,0.301,,true,true,1.0,2.0,6.0,13.0,n,"","","",false
+numberOfRegulators,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",false,,58779,24,2000,2023,8,0.301,0.0,0.301,,true,true,1.0,1.0,2.0,8.0,n,"","","",false
+height,NTC Thermistors,false,,221,3,2007,2017,55,0.0,0.0,0.0,,false,false,0.00015,0.003175,0.028,0.045,n,"","","",false
+factoryPackQuantity,NOR Flash,false,,2331,14,2002,2022,45,0.824,1.982,1.982,,true,true,1.0,2000.0,20000.0,20000.0,n,"","","",false
+voltageSupply_min,Gate Drivers,false,,4322,24,2000,2023,78,0.292,0.184,0.292,,true,true,0.3,5.0,20.0,50.0,n,"","","",false
+numberOfChannels,Current Sensors,false,,4762,22,2002,2023,4,0.477,0.0,0.477,,true,true,1.0,1.0,3.0,6.0,n,"","","",false
+supplyVoltageMin,Supervisory Circuits,false,,5099,8,2012,2022,32,0.289,0.146,0.289,,true,true,0.4,1.0,3.0,4.5,n,"","","",false
+height,White LEDs,false,,1883,8,2016,2023,70,0.287,0.23,0.287,,true,true,0.0002,0.00075,0.0035800000000000003,0.0087,n,"","","",false
+compensatedTemperature_max,"Force Sensors, Load Cells - Industrial",false,,520,3,2017,2021,7,0.0,0.0,0.0,,false,false,40.0,60.0,77.0,77.0,n,"","","",false
+supplyVoltageMax,Clock Generators & Support Products,false,,8774,11,2010,2022,9,0.18,0.283,0.283,,true,true,1.89,3.63,3.63,18.0,n,"","","",false
+voltageSupply_max,ADCs/DACs - Special Purpose,false,,627,10,2001,2016,28,0.0,0.28,0.28,,true,true,1.8,5.25,9.0,65.0,n,"","","",false
+voltageVcca_min,"Translators, Level Shifters",false,,1216,13,2001,2021,33,0.0,0.279,0.279,,true,true,0.5,1.2,4.5,5.0,n,"","","",false
+voltageSupply_min,ADCs/DACs - Special Purpose,false,,626,10,2001,2016,34,0.0,0.279,0.279,,true,true,0.85,2.7,9.0,15.0,n,"","","",false
+factoryPackQuantity,Single Color LEDs,false,,800,8,2003,2022,34,0.097,2.0,2.0,,true,true,1.0,2000.0,16000.0,100000.0,n,"","","",false
+voltageSupply_min,Application Specific Microcontrollers,false,,916,12,2006,2022,45,0.278,0.113,0.278,,true,true,0.9,3.0,9.0,16.0,n,"","","",false
+voltageSupplyDigital_min,Analog to Digital Converters (ADC),false,,8712,24,2000,2023,50,0.0,0.278,0.278,,true,true,0.93,2.7,5.0,15.0,n,"","","",false
+voltageSupply_max,Specialized,false,,2350,18,2002,2022,62,0.461,0.481,0.481,,true,true,0.95,3.6,33.1,52.0,n,"","","",false
+voltageSupply_max,"Clock Buffers, Drivers",false,,2565,17,2001,2022,27,0.016,0.263,0.263,,true,true,1.32,3.6,5.5,7.0,n,"","","",false
+supplyVoltageMin,Digital Isolators,false,,2428,19,2004,2022,19,0.263,0.201,0.263,,true,true,1.62,2.5,3.3,5.5,n,"","","",false
+voltageSupplyVccVdd_min,Microcontrollers,false,,71952,25,2000,2024,79,0.087,0.263,0.263,,true,true,0.72,2.0,4.5,6.0,n,"","","",false
+voltageOutputMinFixed,Voltage Reference,false,,5691,21,2000,2022,63,0.0,0.486,0.486,,true,true,0.2,2.5,10.0,31.0,n,"","","",false
+factoryPackQuantity,Solid State Drives - SSD,false,,5731,14,2010,2024,46,2.0,0.0,2.0,,true,true,1.0,1.0,390.0,2100.0,n,"","","",false
+voltageSupply_max,"Linear, Compass (ICs)",false,,815,11,2006,2022,36,0.2,0.26,0.26,,true,true,1.8,5.5,38.0,38.0,n,"","","",false
+voltageSupply_max,Analog and Digital Output,false,,2833,22,2000,2022,31,0.0,0.26,0.26,,true,true,1.9,5.5,32.0,36.0,n,"","","",false
+factoryPackQuantity,Photoelectric Sensors,false,,2460,17,2002,2022,15,2.079,0.0,2.079,,true,true,1.0,1.0,84.0,4000.0,n,"","","",false
+inputVoltageMax,LDO Voltage Regulators,false,,4601,16,2006,2022,39,0.252,0.222,0.252,,true,true,1.98,6.0,42.0,80.0,n,"","","",false
+voltageSupply_min,Real Time Clocks,false,,1355,12,2002,2017,27,0.0,0.25,0.25,,true,true,0.9,2.4,4.5,5.5,n,"","","",false
+voltageOutput_min,Special Purpose Regulators,false,,2308,19,2000,2022,171,2.114,2.0,2.114,,true,true,0.006,1.05,220.0,650.0,n,"","","",false
+factoryPackQuantity,LED Lighting Development Tools,false,,765,10,2011,2022,12,2.13,0.0,2.13,,true,true,1.0,1.0,50.0,200.0,n,"","","",false
+factoryPackQuantity,Proximity Sensors - Industrial,false,,1932,11,2007,2022,5,2.158,0.0,2.158,,true,true,1.0,1.0,1.0,144.0,n,"","","",false
+voltageSupply_min,Gates and Inverters,false,,5730,18,2000,2022,17,0.023,0.234,0.234,,true,true,0.7,2.0,4.5,4.75,n,"","","",false
+voltageInputMin,Voltage Regulators - DC DC Switching Regulators,false,,30842,24,2000,2023,128,0.227,0.146,0.227,,true,true,0.14,2.5,8.0,42.0,n,"","","",false
+voltageSupply_min,Memory,false,,41820,24,2000,2023,56,0.0,0.226,0.226,,true,true,0.9,2.5,4.5,5.0,n,"","","",false
+numberOfChannels,"Signal Buffers, Repeaters, Splitters",false,,907,13,2002,2022,9,1.204,0.0,1.204,,true,true,1.0,2.0,8.0,32.0,n,"","","",false
+voltageSupplySpanMax,"Instrumentation, Op Amps, Buffer Amps",false,,18842,24,2000,2023,82,0.503,0.158,0.503,,true,true,1.98,11.0,60.0,300.0,n,"","","",false
+height,"LED COBs, Engines, Modules, Strips",false,,29171,14,2010,2023,292,0.504,0.0,0.504,,true,true,0.00016,0.0017,0.03,0.7874,n,"","","",false
+voltageSupply_max,Logic Output Optoisolators,false,,1451,11,2002,2021,14,0.0,0.222,0.222,,true,true,3.3,5.5,30.0,35.0,n,"","","",false
+voltageOutputMax,"Voltage Regulators - Linear, Low Drop Out (LDO) Regulators",false,,4368,23,2000,2022,190,1.073,0.38,1.073,,true,true,1.2,5.7,60.0,438.0,n,"","","",false
+compensatedTemperature_min,"Force Sensors, Load Cells - Industrial",false,,0,0,,,4,0.0,0.0,0.0,,false,false,5.0,15.0,50.0,50.0,n,"","","",false
+viewingAngle,LED Indication - Discrete,false,,17934,24,2000,2023,71,0.0,0.222,0.222,,true,true,6.0,120.0,160.0,240.0,n,"","","",false
+voltageSupply_max,"Force Sensors, Load Cells - Industrial",false,,545,3,2017,2021,12,0.0,0.0,0.0,,false,false,3.6,10.0,30.0,30.0,n,"","","",false
+voltageSupply_min,Audio Special Purpose,false,,500,8,2002,2017,55,0.176,0.214,0.214,,true,true,0.9,3.0,10.0,18.0,n,"","","",false
+height,Photoelectric Sensors,false,,718,10,2002,2021,68,2.47,0.602,2.47,,true,true,0.00055,0.05,0.3423,30.7,n,"","","",false
+factoryPackQuantity,CPU - Central Processing Units,false,,1404,9,2013,2024,7,2.477,0.0,2.477,,true,true,1.0,1.0,12.0,725.0,n,"","","",false
+voltageSupply_min,Digital Potentiometers,false,,2577,13,2000,2021,13,0.0,0.201,0.201,,true,true,1.7,2.7,5.0,5.0,n,"","","",false
+fiberDiameter,Fiber Optic Cable Assemblies,false,,3622,9,2013,2022,13,0.903,2.495,2.495,,true,true,4e-7,0.000125,0.0005,0.027,n,"","","",false
+inputVoltageMin,LDO Voltage Regulators,false,,4479,16,2006,2022,83,0.301,0.505,0.505,,true,true,0.1,1.7,5.3,13.2,n,"","","",false
+voltageSupply_max,I/O Expanders,false,,729,8,2002,2021,8,0.038,0.184,0.184,,true,true,1.95,5.5,6.0,6.0,n,"","","",false
+voltageSupply_min,I/O Expanders,false,,729,8,2002,2021,20,0.0,0.184,0.184,,true,true,1.08,2.3,4.5,4.5,n,"","","",false
+voltageSupply_max,Encoders,false,,9840,18,2002,2022,25,0.041,0.18,0.18,,true,true,3.3,30.0,32.0,42.0,n,"","","",false
+numberOfCircuits,"Clock Generators, PLLs, Frequency Synthesizers",false,,7483,23,2000,2022,6,0.903,0.0,0.903,,true,true,1.0,1.0,4.0,12.0,n,"","","",false
+voltageCore,DSP (Digital Signal Processors),false,,1772,16,2000,2016,22,0.18,0.087,0.18,,true,true,0.9,1.2,3.3,5.0,n,"","","",false
+voltageSupply_max,Current Sensors,false,,3563,17,2006,2023,50,0.0,0.18,0.18,,true,true,3.3,5.5,600.0,600.0,n,"","","",false
+voltageSupply_max,Encoders - Industrial,false,,4110,15,2006,2022,19,0.067,0.18,0.18,,true,true,3.0,12.0,30.0,35.0,n,"","","",false
+resistance,"Angle, Linear Position Measuring",false,,1875,11,2006,2022,126,2.523,1.154,2.523,,true,true,3.0,8000.0,200000000.0,200000000.0,n,"","","",false
+voltageOutputMinFixed,Voltage Regulators - DC DC Switching Regulators,false,,28680,24,2000,2023,249,0.0,0.505,0.505,,true,true,0.2,1.75,5.5,48.0,n,"","","",false
+voltageGateTriggerVgtMax,SCRs - Modules,false,,1785,10,2002,2021,16,0.046,0.176,0.176,,true,true,0.8,2.5,4.5,5.0,n,"","","",false
+voltageSupply_min,Flip Flops,false,,1035,10,2001,2017,22,0.046,0.176,0.176,,true,true,0.8,2.0,4.75,5.0,n,"","","",false
+factoryPackQuantity,Proximity Sensors,false,,814,12,2001,2019,18,1.477,0.0,1.477,,true,true,1.0,100.0,2500.0,4500.0,n,"","","",false
+vzZenerVoltage,Zener Diodes,false,,2327,14,2002,2022,130,0.176,0.038,0.176,,true,true,1.8,7.5,200.0,330.0,n,"","","",false
+currentShortCircuitRatingSccr,Surge Protection Devices (SPDs),false,,8422,13,2011,2023,26,0.0,2.699,2.699,,true,true,80.0,200000.0,200000.0,300000.0,n,"","","",false
+viewingAngle,"Panel Indicators, Pilot Lights",false,,6021,21,2001,2021,32,0.097,0.523,0.523,,true,true,4.0,60.0,180.0,200.0,n,"","","",false
+voltageSupply_min,Encoders - Industrial,false,,4110,15,2006,2022,17,0.176,0.176,0.176,,true,true,3.0,5.0,12.0,24.0,n,"","","",false
+width,Solid State Relays - Industrial Mount,false,,2012,13,2007,2022,105,0.0,0.176,0.176,,true,true,0.004,0.0445,0.155,0.156,n,"","","",false
+controlVoltageRange_min,Solid State Relays - Industrial Mount,false,,2500,14,2007,2022,66,0.0,0.176,0.176,,true,true,2.0,4.0,200.0,415.0,n,"","","",false
+voltageSupply_min,Current Sensors,false,,3561,17,2006,2023,52,0.0,0.176,0.176,,true,true,1.0,4.75,600.0,600.0,n,"","","",false
+voltageSupplyVccVdd_max,DC DC Switching Controllers,false,,7866,23,2000,2022,100,1.176,0.18,1.176,,true,true,3.3,20.0,105.0,600.0,n,"","","",false
+supplyVoltageMin,Clock Generators & Support Products,false,,8774,11,2010,2022,8,0.165,0.0,0.165,,true,true,1.71,1.71,2.25,12.0,n,"","","",false
+voltageVccb_min,"Translators, Level Shifters",false,,1213,13,2001,2021,32,0.0,0.165,0.165,,true,true,0.65,1.65,4.5,5.0,n,"","","",false
+numberOfOutputs,"Serializers, Deserializers",false,,595,10,2002,2021,30,0.164,0.0,0.164,,true,true,1.0,3.0,48.0,70.0,n,"","","",false
+numberOfInputs,"Serializers, Deserializers",false,,598,10,2002,2021,31,0.164,0.0,0.164,,true,true,1.0,4.0,53.0,80.0,n,"","","",false
+voltageGateTriggerVgtMax,TRIACs,false,,2726,14,2002,2021,16,0.079,0.16,0.16,,true,true,0.8,1.3,2.5,3.0,n,"","","",false
+wavelengthPeak,"Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",false,,3320,15,2001,2019,78,12.959,0.002,12.959,,true,true,4.28e-7,5.85e-7,7.000000000000001e-7,6000000.0,n,"","","",false
+supplyVoltageMin,SRAM,false,,8597,17,2001,2018,14,0.135,0.151,0.151,,true,true,1.2,1.7,2.3,4.5,n,"","","",false
+wavelengthPeak,LED Character and Numeric,false,,4297,18,2001,2021,78,0.026,0.15,0.15,,true,false,3.8e-7,5.930000000000001e-7,6.6e-7,0.000015,n,"","","",false
+factoryPackQuantity,Multiple Function Sensor Development Tools,false,,835,9,2014,2023,14,0.523,0.0,0.523,,true,true,1.0,1.0,50.0,150.0,n,"","","",false
+supplyVoltageMax,Supervisory Circuits,false,,5409,9,2008,2022,18,0.523,0.0,0.523,,true,true,3.3,6.0,36.0,105.0,n,"","","",false
+voltageSupply_max,Programmable Timers and Oscillators,false,,897,14,2000,2021,21,0.125,0.137,0.137,,true,false,1.8,5.5,18.0,42.0,n,"","","",false
+voltageZenerNomVz,Single Zener Diodes,false,,49157,23,2000,2022,509,0.046,0.13,0.13,,true,false,0.75,15.0,200.0,390.0,n,"","","",false
+voltageSupply_min,"Photoelectric, Industrial",false,,13970,23,2000,2022,31,0.125,0.0,0.125,,true,false,3.3,10.0,24.0,230.0,n,"","","",false
+voltageSupply_max,Gates and Inverters,false,,5730,18,2000,2022,10,0.0,0.125,0.125,,true,false,2.7,5.5,18.0,18.0,n,"","","",false
+voltageSupplyVccVdd_min,DC DC Switching Controllers,false,,7863,23,2000,2022,118,0.523,0.376,0.523,,true,true,0.6,4.0,15.0,40.0,n,"","","",false
+numberOfPoles,Surge Protection Devices (SPDs),false,,9461,14,2010,2023,4,0.125,0.0,0.125,,true,false,1.0,1.0,4.0,4.0,n,"","","",false
+testFrequency_min,RF Amplifiers,false,,4262,20,2002,2023,315,0.431,0.523,0.523,,true,true,6.0,2000000000.0,57000000000.0,90000000000.0,n,"","","",false
+voltageSupply_max,"Buffers, Drivers, Receivers, Transceivers",false,,4552,17,2000,2021,15,0.0,0.125,0.125,,true,false,2.7,5.5,6.0,36.0,n,"","","",false
+numberOfElements,"Buffers, Drivers, Receivers, Transceivers",false,,4579,17,2000,2021,7,0.125,0.0,0.125,,true,false,1.0,2.0,6.0,9.0,n,"","","",false
+voltageSupply_max,Flip Flops,false,,1035,10,2001,2017,13,0.0,0.125,0.125,,true,false,2.625,5.5,18.0,18.0,n,"","","",false
+compensatedTemperature_min,"Force Sensors, Load Cells",false,,0,0,,,5,0.0,0.0,0.0,,false,false,5.0,20.0,50.0,50.0,n,"","","",false
+voltageInput_min,"Power Supply Controllers, Monitors",false,,51,1,2010,2010,40,0.0,0.0,0.0,,false,false,0.4,4.5,640.0,640.0,n,"","","",false
+length,Memory Cards,false,,753,6,2017,2022,6,0.0,0.0,0.0,,false,false,0.01499,0.0364,0.0428,0.0428,n,"","","",false
+voltageSupplyDigital_max,Analog to Digital Converters (ADC),false,,8712,24,2000,2023,43,0.26,0.529,0.529,,true,true,1.0,5.0,5.5,16.0,n,"","","",false
+supplyVoltageMax,RF System on a Chip - SoC,false,,1180,8,2016,2023,20,0.117,0.041,0.117,,true,false,1.2,3.8,5.5,5.5,n,"","","",false
+frequencyRange_min,Current Transformer Sensors,false,,330,4,2017,2022,27,0.0,0.0,0.0,,false,false,20.0,50000.0,1000000.0,1000000.0,n,"","","",false
+voltageSupplyBattery_min,Real Time Clocks,false,,844,9,2002,2017,22,0.0,0.114,0.114,,true,false,0.9,1.8,3.0,4.1,n,"","","",false
+voltageSupply_min,Full Half-Bridge (H Bridge) Drivers,false,,808,9,2007,2022,48,0.107,0.0,0.107,,true,false,0.3,4.5,15.0,28.0,n,"","","",false
+wavelengthColorTemperature,White LEDs,false,,1813,9,2015,2023,27,0.101,0.087,0.101,,true,false,300000.0,4000000.0,6500000.0,8200000.0,n,"","","",false
+inputLogicLevelHigh_max,Gates and Inverters,false,,5087,17,2000,2021,55,0.032,0.101,0.101,,true,false,0.4,2.1,12.5,14.95,n,"","","",false
+voltageSupply_min,Programmable Timers and Oscillators,false,,897,14,2000,2021,25,0.101,0.0,0.101,,true,false,0.9,2.7,4.75,6.0,n,"","","",false
+voltageSupply_max,Hot Swap Controllers,false,,988,12,2000,2013,37,0.097,0.0,0.097,,true,false,3.6,16.5,80.0,100.0,n,"","","",false
+numberOfOutputs,Special Purpose Regulators,false,,3882,23,2000,2022,17,0.531,0.0,0.531,,true,true,1.0,1.0,12.0,26.0,n,"","","",false
+voltageSupply_max,Video Processing,false,,1083,14,2002,2017,41,0.533,0.413,0.533,,true,true,1.16,3.6,13.2,45.0,n,"","","",false
+voltageSupply_max,"Signal Buffers, Repeaters, Splitters",false,,999,15,2002,2022,23,0.398,0.535,0.535,,true,true,1.0,3.6,6.5,15.0,n,"","","",false
+inputVoltage_max,LED Drivers Power Supplies,false,,863,11,2009,2022,26,1.166,0.301,1.166,,true,true,12.0,277.0,528.0,528.0,n,"","","",false
+voltageSupply_min,"Clock Generators, PLLs, Frequency Synthesizers",false,,6051,23,2000,2022,38,0.0,0.097,0.097,,true,false,1.425,3.0,4.5,11.4,n,"","","",false
+length,Solid State Relays - Industrial Mount,false,,1914,12,2007,2022,118,0.0,0.095,0.095,,true,false,0.0032,0.0584,0.12340000000000001,0.186,n,"","","",false
+leadLength,LED Panel Mount Indicators,false,,417,3,2017,2019,12,0.0,0.0,0.0,,false,false,0.00635,0.2,0.3048,0.508,n,"","","",false
+channelsPerCircuit,"Translators, Level Shifters",false,,1777,14,2000,2021,14,0.087,0.0,0.087,,true,false,1.0,2.0,16.0,22.0,n,"","","",false
+voltageVcca_max,"Translators, Level Shifters",false,,1230,13,2001,2021,24,0.087,0.0,0.087,,true,false,1.3,3.6,18.0,22.0,n,"","","",false
+frequencyRange_max,Current Transformer Sensors,false,,330,4,2017,2022,18,0.0,0.0,0.0,,false,false,50.0,500000.0,1000000.0,1000000.0,n,"","","",false
+voltageOutput_max,LED Drivers,false,,3265,18,2004,2022,144,1.135,0.658,1.135,,true,true,0.1,25.5,350.0,650.0,n,"","","",false
+controlVoltageRange_max,Solid State Relays - Industrial Mount,false,,2521,14,2007,2022,60,0.0,0.079,0.079,,true,false,5.0,32.0,280.0,660.0,n,"","","",false
+viewingAngle,"LED COBs, Engines, Modules, Strips",false,,27068,14,2010,2023,58,0.079,0.0,0.079,,true,false,5.0,115.0,150.0,360.0,n,"","","",false
+vgsThGateSourceThresholdVoltage,MOSFETs,false,,1772,10,2008,2022,56,0.079,0.0,0.079,,true,false,0.3,2.4,5.5,6.0,n,"","","",false
+voltageOutputMax,"Transistor, Photovoltaic Output Optoisolators",false,,9936,23,2000,2022,38,0.0,0.556,0.556,,true,true,0.5,70.0,350.0,350.0,n,"","","",false
+voltageSupply_max,Real Time Clocks,false,,1355,12,2002,2017,13,0.038,0.066,0.066,,true,false,1.89,5.5,5.5,6.0,n,"","","",false
+dutyCycleMax,Clock Generators & Support Products,false,,8764,11,2010,2022,4,0.0,0.062,0.062,,true,false,52.0,60.0,60.0,60.0,n,"","","",false
+inputLogicLevelLow_max,Gates and Inverters,false,,5085,17,2000,2021,60,0.061,0.0,0.061,,true,false,0.26,0.9,4.0,36.0,n,"","","",false
+outputVoltage,Switching Voltage Regulators,false,,2896,11,2011,2022,120,0.0,0.058,0.058,,true,false,0.2,2.7,40.0,53.0,n,"","","",false
+dutyCycleMax,DC DC Switching Controllers,false,,6132,23,2000,2022,68,0.0,0.051,0.051,,true,false,24.0,94.0,100.0,100.0,n,"","","",false
+adcResolution,RF System on a Chip - SoC,false,,641,5,2016,2023,8,0.0,0.0,0.0,,false,false,4.0,12.0,16.0,24.0,n,"","","",false
+voltageSupply_max,Digital Potentiometers,false,,2577,13,2000,2021,6,0.038,0.0,0.038,,true,false,3.3,5.5,6.0,6.0,n,"","","",false
+voltageZenerNomVz,Zener Diode Arrays,false,,1939,13,2002,2018,69,0.0,0.038,0.038,,true,false,2.2,10.0,68.0,75.0,n,"","","",false
+operatingSupplyVoltage,Safety Light Curtains,false,,920,4,2017,2021,2,0.0,0.0,0.0,,false,false,12.0,24.0,24.0,24.0,n,"","","",false
+wavelengthPeak,LED Indication - Discrete,false,,12067,23,2000,2022,161,0.026,0.031,0.031,,true,false,2.75e-7,5.91e-7,6.650000000000001e-7,9000000.0,n,"","","",false
+factoryPackQuantity,Fiber Optic Connectors,false,,3350,15,2002,2022,37,1.097,0.0,1.097,,true,true,1.0,1.0,500.0,10000.0,n,"","","",false
+viewingAngle,LED Color Lighting,false,,4489,16,2006,2023,47,0.026,0.0,0.026,,true,false,10.0,125.0,170.0,170.0,n,"","","",false
+voltageSupply_max,Proximity Sensors,false,,2710,13,2002,2022,36,0.62,1.09,1.09,,true,true,1.95,30.0,250.0,265.0,n,"","","",false
+length,Rectifiers,false,,891,9,2002,2017,46,0.562,0.09,0.562,,true,true,0.002,0.007110000000000001,0.0383,0.1515,n,"","","",false
+voltageSupplyDigital_min,CODECS,false,,884,12,2001,2013,35,0.0,0.022,0.022,,true,false,0.85,2.7,4.75,4.75,n,"","","",false
+factoryPackQuantity,SCRs,false,,326,4,2017,2021,21,0.0,0.0,0.0,,false,false,1.0,6.0,3000.0,4000.0,n,"","","",false
+wavelength,Fiber Optic Transceiver Modules,false,,19548,22,2002,2023,207,0.014,0.0,0.014,,true,false,1.5000000000000002e-7,1.4700000000000001e-6,1.61e-6,1.6250000000000001e-6,n,"","","",false
+dutyCycle,"AC DC Converters, Offline Switchers",false,,2426,19,2002,2023,55,0.004,0.0,0.004,,true,false,7.6,72.0,99.9,100.0,n,"","","",false
+numberOfBitsPerElement,Flip Flops,false,,1214,10,2001,2017,10,0.0,0.0,0.0,,true,false,1.0,1.0,10.0,22.0,n,"","","",false
+voltageSupplyDigital_max,CODECS,false,,884,12,2001,2013,29,0.0,0.0,0.0,,true,false,0.99,3.6,5.5,5.5,n,"","","",false
+voltageSupply_max,Proximity Sensors - Industrial,false,,12829,23,2000,2022,41,0.0,0.0,0.0,,true,false,5.0,30.0,264.0,265.0,n,"","","",false
+voltageSupply_max,Telecom,false,,1007,8,2002,2018,37,1.087,0.079,1.087,,true,true,1.0,3.465,35.0,150.0,n,"","","",false
+voltageSupplySingleV_min,"Analog Switches, Multiplexers, Demultiplexers",false,,5350,22,2000,2022,42,0.569,0.097,0.569,,true,true,0.8,2.0,13.0,44.0,n,"","","",false
+voltageSupply_max,"Angle, Linear Position Measuring",false,,5370,17,2006,2023,51,0.0,0.0,0.0,,true,false,3.0,26.0,60.0,400.0,n,"","","",false
+voltageSupply_min,"Angle, Linear Position Measuring",false,,5331,17,2006,2023,53,0.0,0.0,0.0,,true,false,1.0,8.0,60.0,400.0,n,"","","",false
+voltageSupply_max,"Drivers, Receivers, Transceivers",false,,9292,23,2000,2022,67,0.574,0.499,0.574,,true,true,1.0,5.5,36.0,60.0,n,"","","",false
+voltageSupply_max,Fiber Optic Transceiver Modules,false,,11795,22,2002,2023,23,0.0,0.0,0.0,,true,false,1.2,3.3,5.0,36.0,n,"","","",false
+voltageSupplyDigital_max,Digital to Analog Converters (DAC),false,,6405,23,2000,2022,35,0.02,0.579,0.579,,true,true,0.95,5.5,15.0,36.0,n,"","","",false
+height,Solid State Relays - Industrial Mount,false,,1998,13,2007,2022,149,0.0,0.0,0.0,,true,false,0.0039,0.035500000000000004,0.1338,0.156,n,"","","",false
+outputVoltage,Pressure Sensors - Industrial,false,,373,4,2017,2021,7,0.0,0.0,0.0,,false,false,0.1,4.5,5.0,30.0,n,"","","",false
+temperatureTest,LED Color Lighting,false,,4557,16,2006,2023,3,0.0,0.0,0.0,,true,false,25.0,25.0,85.0,85.0,n,"","","",false
+viewingAngle,LED White Lighting,false,,39148,18,2006,2023,38,0.0,0.0,0.0,,true,false,10.0,120.0,150.0,170.0,n,"","","",false
+voltageSupply_min,"Signal Buffers, Repeaters, Splitters",false,,999,15,2002,2022,30,0.176,0.584,0.584,,true,true,0.6,3.0,3.3,4.75,n,"","","",false
+numberOfCircuits,"Instrumentation, Op Amps, Buffer Amps",false,,18933,24,2000,2023,10,0.0,0.0,0.0,,true,false,1.0,2.0,4.0,32.0,n,"","","",false
+operatingSupplyVoltage,Pressure Sensors - Industrial,false,,509,4,2017,2021,16,0.0,0.0,0.0,,false,false,0.07,5.0,40.0,240.0,n,"","","",false
+dutyCycle,Electric Actuators/Cylinders,false,,1093,9,2013,2022,7,0.0,0.0,0.0,,true,false,10.0,100.0,100.0,100.0,n,"","","",false
+factoryPackQuantity,Safety Light Curtains,false,,4109,10,2007,2022,3,0.0,0.0,0.0,,true,false,1.0,1.0,1.0,50.0,n,"","","",false
+numberOfCircuits,Gates and Inverters,false,,5747,18,2000,2022,7,0.0,0.0,0.0,,true,false,1.0,2.0,6.0,9.0,n,"","","",false
+viewingAngle,White LEDs,false,,1895,8,2016,2023,16,0.097,0.584,0.584,,true,true,30.0,120.0,150.0,170.0,n,"","","",false
+factoryPackQuantity,MOSFETs,false,,2315,13,2007,2022,33,0.0,0.0,0.0,,true,false,1.0,2500.0,12000.0,12000.0,n,"","","",false
+operatingTemperatureJunction_min,Single Diodes,false,,1473,9,2008,2022,5,0.0,0.0,0.0,,true,false,125.0,150.0,175.0,200.0,n,"","","",false
+voltageSupply_min,Fiber Optic Transceiver Modules,false,,11792,22,2002,2023,20,0.0,0.0,0.0,,true,false,1.2,3.3,3.315,18.0,n,"","","",false
+numberOfChannels,"Triac, SCR Output Optoisolators",false,,1197,10,2002,2017,2,0.0,0.0,0.0,,true,false,1.0,1.0,1.0,2.0,n,"","","",false
+temperatureTest,"LED COBs, Engines, Modules, Strips",false,,28899,14,2010,2023,15,0.0,0.0,0.0,,true,false,25.0,85.0,85.0,105.0,n,"","","",false
+numberOfCircuits,Digital Potentiometers,false,,3442,15,2000,2021,5,0.0,0.0,0.0,,true,false,1.0,1.0,4.0,6.0,n,"","","",false
+numberOfDrivers,Gate Drivers,false,,4362,24,2000,2023,6,0.0,0.0,0.0,,true,false,1.0,2.0,6.0,8.0,n,"","","",false
+voltageSupplyBattery_max,Real Time Clocks,false,,844,9,2002,2017,17,0.0,0.0,0.0,,true,false,3.0,5.5,5.5,35.0,n,"","","",false
+numberOfBitsPerElement,"Buffers, Drivers, Receivers, Transceivers",false,,4547,17,2000,2021,14,0.0,0.0,0.0,,true,false,1.0,1.0,10.0,36.0,n,"","","",false
+factoryPackQuantity,RF System on a Chip - SoC,false,,1401,9,2013,2023,48,0.0,0.0,0.0,,true,false,1.0,2450.0,7000.0,8000.0,n,"","","",false
+supplyVoltageMin,RF System on a Chip - SoC,false,,1180,8,2016,2023,25,0.0,0.0,0.0,,true,false,0.9,1.71,3.3,5.5,n,"","","",false
+bandwidth,"Linear, Compass (ICs)",false,,373,5,2013,2021,50,0.0,0.0,0.0,,false,false,10.0,20000.0,5000000.0,5000000.0,n,"","","",false
+unidirectionalChannels,TVS Diodes,false,,48104,24,2000,2023,16,0.602,0.0,0.602,,true,true,1.0,1.0,6.0,24.0,n,"","","",false
+numberOfADConverters,Analog to Digital Converters (ADC),false,,9569,24,2000,2023,9,0.602,0.0,0.602,,true,true,1.0,1.0,8.0,64.0,n,"","","",false
+numberOfElements,Comparators,false,,2678,20,2000,2022,4,0.0,0.0,0.0,,true,false,1.0,2.0,4.0,6.0,n,"","","",false
+independentCircuits,"Signal Switches, Multiplexers, Decoders",false,,2591,13,2000,2021,4,0.0,0.0,0.0,,true,false,1.0,1.0,4.0,4.0,n,"","","",false
+supplyVoltageMin,Clock Synthesizer / Jitter Cleaner,false,,2028,6,2014,2022,5,0.0,0.0,0.0,,false,false,1.71,1.71,1.71,3.3,n,"","","",false
+voltageTolerance,Zener Diodes,false,,1093,9,2002,2018,13,0.0,0.0,0.0,,true,false,1.0,5.0,20.0,20.0,n,"","","",false
+voltageOnState,Thyristors,false,,1937,11,2002,2022,9,0.0,0.0,0.0,,true,false,1.3,4.0,8.0,8.0,n,"","","",false
+wavelengthPeak,"Panel Indicators, Pilot Lights",false,,2097,12,2003,2021,60,0.0,0.0,0.0,,true,false,4.3e-7,5.85e-7,7.000000000000001e-7,6500000.0,n,"","","",false
+voltageGateTriggerVgtMax,SCRs,false,,2818,15,2002,2022,17,0.0,0.0,0.0,,true,false,0.75,1.5,5.0,12.0,n,"","","",false
+supplyVoltageMax,Clock Synthesizer / Jitter Cleaner,false,,2028,6,2014,2022,6,0.0,0.0,0.0,,false,false,1.89,3.47,3.47,5.0,n,"","","",false
+voltageSupplyAnalog_min,CODECS,false,,862,12,2001,2013,31,0.0,0.0,0.0,,true,false,1.1,2.7,4.75,4.75,n,"","","",false
+bidirectionalChannels,TVS Diodes,false,,38644,24,2000,2023,12,0.602,0.0,0.602,,true,true,1.0,1.0,4.0,16.0,n,"","","",false
+voltageSupplyAnalog_max,CODECS,false,,862,12,2001,2013,28,0.0,0.0,0.0,,true,false,1.5,3.6,5.5,5.5,n,"","","",false
+viewingAngle,"Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",false,,4066,15,2001,2019,36,0.0,0.0,0.0,,true,false,8.0,50.0,160.0,200.0,n,"","","",false
+wavelength,Lamp Replacements,false,,428,5,2007,2021,52,12.959,0.002,12.959,,false,true,4.0500000000000004e-7,5.92e-7,6000000.0,7000000.0,n,"","","",false
+wavelengthColorTemperature,Single Color LEDs,false,,583,7,2003,2022,110,12.41,0.018,12.41,,false,true,2.75e-7,5.900000000000001e-7,1800000.0,1800000.0,n,"","","",false
+ledSize,LED Panel Mount Indicators,false,,2295,14,2004,2021,21,1.065,0.0,1.065,,true,true,0.003,0.005,0.018000000000000002,0.2455,n,"","","",false
+operatingSupplyVoltage,Digital Isolators,false,,171,3,2004,2008,4,0.0,0.0,0.0,,false,false,3.0,5.5,5.5,5.5,n,"","","",false
+delayTime,"Signal Buffers, Repeaters, Splitters",false,,227,5,2002,2021,73,4.155,0.818,4.155,,false,true,6.4e-11,4.6e-10,3.5000000000000004e-7,0.001,n,"","","",false
+cdDiodeCapacitance,Transient Voltage Suppression Diodes - TVS,false,,326,5,2012,2022,126,3.939,0.301,3.939,,false,true,4e-14,2e-11,1.2e-9,1e-6,n,"","","",false
+voltageInput_max,Current Regulation/Management,false,,969,13,2004,2021,54,1.051,0.222,1.051,,true,true,1.5,26.0,120.0,900.0,n,"","","",false
+factoryPackQuantity,Sensor Hardware & Accessories,false,,915,9,2007,2021,16,2.921,0.0,2.921,,true,true,1.0,1.0,50.0,5000.0,n,"","","",false
+currentTest,LED Color Lighting,false,,4178,16,2006,2023,37,1.176,0.301,1.176,,true,true,0.01,0.35000000000000003,1.4,13.5,n,"","","",false
+factoryPackQuantity,Zener Diodes,false,,3170,16,2002,2022,22,0.0,3.0,3.0,,true,true,1.0,5000.0,15000.0,50000.0,n,"","","",false
+currentDarkTyp,Photodiodes,false,,585,5,2006,2017,124,3.079,2.155,3.079,,false,true,5e-16,2e-9,0.00010499999999999999,0.00083,n,"","","",false
+numberOfChannels,ADCs/DACs - Special Purpose,false,,1453,18,2001,2022,16,0.602,0.0,0.602,,true,true,1.0,2.0,20.0,32.0,n,"","","",false
+factoryPackQuantity,Battery Management,false,,345,3,2020,2022,16,0.301,3.0,3.0,,false,true,1.0,4000.0,10000.0,10000.0,n,"","","",false
+diameter,Solenoids & Actuators,false,,480,3,2013,2017,35,3.0,0.298,3.0,,false,true,0.0005,0.039670000000000004,69.85,69.85,n,"","","",false
+cableLength,Sensor Cable Assemblies,false,,1258,11,2006,2021,49,0.0,0.602,0.602,,true,true,0.024890000000000002,3.0,25.0,200.0,n,"","","",false
+factoryPackQuantity,RF Circulators,false,,1112,4,2017,2021,3,2.954,0.0,2.954,,false,true,1.0,1.0,900.0,900.0,n,"","","",false
+voltageSupply_min,"Motor Drivers, Controllers",false,,3436,20,2002,2022,89,1.046,0.079,1.046,,true,true,0.2,4.5,19.0,450.0,n,"","","",false
+wavelengthDominant,LED Indication - Discrete,false,,13840,23,2000,2022,199,13.148,0.019,13.148,,true,true,3.9500000000000003e-7,5.900000000000001e-7,9000000.0,11500000.0,n,"","","",false
+numberOfVoltagesMonitored,Supervisors,false,,36945,24,2000,2023,14,0.602,0.0,0.602,,true,true,1.0,1.0,6.0,32.0,n,"","","",false
+height,LED Lenses & Assemblies,false,,270,4,2017,2021,170,2.566,0.009,2.566,,false,true,0.0008,0.011720000000000001,40.2,40.2,n,"","","",false
+secondaryResistance,Current Transformer Sensors,false,,198,3,2017,2022,156,0.273,2.535,2.535,,false,true,0.00035,3.5,468.0,10000.0,n,"","","",false
+numberOfOutputs,Voltage Regulators - DC DC Switching Regulators,false,,31158,24,2000,2023,8,0.602,0.0,0.602,,true,true,1.0,1.0,3.0,8.0,n,"","","",false
+voltageSupplyVccVdd_min,"Power Distribution Switches, Load Drivers",false,,1054,12,2002,2023,62,0.903,0.477,0.903,,true,true,0.5,3.0,11.0,60.0,n,"","","",false
+supplyVoltageMin,Switching Voltage Regulators,false,,1848,11,2011,2022,52,0.523,0.602,0.602,,true,true,0.3,2.0,8.0,38.0,n,"","","",false
+voltageSupplyAnalog_max,Digital to Analog Converters (DAC),false,,5850,21,2000,2022,29,0.893,0.28,0.893,,true,true,1.8,5.5,16.5,62.0,n,"","","",false
+operatingFrequency,RF System on a Chip - SoC,false,,679,6,2016,2023,11,0.015,2.176,2.176,,false,true,16000000.0,2400000000.0,2400000000.0,60000000000.0,n,"","","",false
+numberOfChannels,Audio Special Purpose,false,,614,9,2000,2017,13,0.602,0.0,0.602,,true,true,1.0,2.0,32.0,64.0,n,"","","",false
+voltageSupply_min,Hot Swap Controllers,false,,964,12,2000,2013,39,1.046,0.079,1.046,,true,true,0.9,2.9,33.0,100.0,n,"","","",false
+resistance0C,RTD (Resistance Temperature Detector),false,,893,6,2012,2021,11,0.0,0.0,0.0,,false,false,10.0,1000.0,1000.0,10000.0,n,"","","",false
+operatingSupplyVoltage,"Fibre Optic Transmitters, Receivers, Transceivers",false,,480,4,2017,2021,7,0.0,0.0,0.0,,false,false,1.8,3.3,24.0,120.0,n,"","","",false
+voltageSupply_min,"Pressure Sensors, Transducers - Industrial",false,,40414,24,2000,2023,48,1.018,0.653,1.018,,true,true,0.5,8.0,17.0,265.0,n,"","","",false
+maximumFrequency,Proximity Sensors - Industrial,false,,1219,6,2017,2022,57,1.748,1.398,1.748,,false,true,1.0,1000.0,300000.0,24250000000.0,n,"","","",false
+gaussStrength,Multi Purpose Magnets,false,,332,2,2016,2017,24,0.0,0.0,0.0,,false,false,80000000000.0,4000000000000.0,11900000000000.0,13950000000000.0,n,"","","",false
+numberOfCharacters,"LCD, OLED Character and Numeric",false,,1847,17,2001,2021,27,0.301,0.602,0.602,,true,true,1.0,38.0,160.0,160.0,n,"","","",false
+supplyCurrentReceiving,RF System on a Chip - SoC,false,,867,7,2016,2023,87,1.693,0.236,1.693,,false,true,0.0015,0.008400000000000001,0.08700000000000001,3.6,n,"","","",false
+voltageSupply_max,"Motor Drivers, Controllers",false,,3550,20,2002,2022,102,0.886,0.18,0.886,,true,true,1.8,16.5,95.0,450.0,n,"","","",false
+voltageSupplyVccVdd_max,"Power Distribution Switches, Load Drivers",false,,1059,12,2002,2023,44,0.602,0.143,0.602,,true,true,1.9,5.5,60.0,80.0,n,"","","",false
+supplyCurrentTransmitting,RF System on a Chip - SoC,false,,895,7,2016,2023,89,1.489,0.054,1.489,,false,true,0.003,0.0195,0.335,8.2,n,"","","",false
+voltageBreakdownVBrGss,JFETs,false,,228,4,2001,2017,12,1.477,0.222,1.477,,false,true,15.0,35.0,1200.0,1700.0,n,"","","",false
+factoryPackQuantity,LED Drivers Power Supplies,false,,2648,14,2009,2022,44,1.011,0.699,1.011,,true,true,1.0,16.0,200.0,1000.0,n,"","","",false
+voltageSupply_min,Voltage Regulators - Linear + Switching,false,,1002,11,2007,2022,58,0.62,0.0,0.62,,true,true,0.5,2.8,9.0,30.0,n,"","","",false
+currentRating,Current Transformer Sensors,false,,303,3,2012,2021,53,0.495,1.301,1.301,,false,true,0.0012,20.0,1600.0,4000.0,n,"","","",false
+range_max,Safety Light Curtains,false,,1869,5,2012,2021,34,0.176,1.222,1.222,,false,true,0.012,12.0,20.0,60.0,n,"","","",false
+voltageSupply_min,"Sensor, Transducer Amplifiers",false,,600,7,2003,2019,29,1.216,0.978,1.216,,false,true,0.5,12.0,230.0,230.0,n,"","","",false
+factoryPackQuantity,Fiber Optic Cables,false,,2019,6,2012,2022,12,1.215,0.0,1.215,,false,true,1.0,1.0,100.0,5000.0,n,"","","",false
+length,RF System on a Chip - SoC,false,,763,7,2016,2023,39,1.162,0.207,1.162,,false,true,0.0023250000000000002,0.006,0.0207,0.315,n,"","","",false
+voltageSupply_max,Controllers,false,,1213,16,2000,2021,37,1.008,0.477,1.008,,true,true,0.9,3.6,22.0,56.0,n,"","","",false
+voltageSupply_min,Audio Amplifiers,false,,3077,19,2000,2021,63,0.621,0.25,0.621,,true,true,0.9,2.7,18.0,46.0,n,"","","",false
+cacheMemory,CPU - Central Processing Units,false,,802,6,2017,2024,61,1.084,0.125,1.084,,false,true,512000.0,18000000.0,260000000.0,320000000.0,n,"","","",false
+factoryPackQuantity,Encoders,false,,422,5,2007,2021,28,1.079,0.0,1.079,,false,true,1.0,1.0,1200.0,2000.0,n,"","","",false
+ferruleDiameter,Fiber Optic Cable Assemblies,false,,1426,2,2021,2022,6,1.033,0.0,1.033,,false,true,0.000049999999999999996,0.00125,0.0025,0.03,n,"","","",false
+resistance,Solenoids & Actuators,false,,883,3,2013,2017,309,1.024,0.238,1.024,,false,true,0.26,16.54,715.0,3824.0,n,"","","",false
+operatingSupplyVoltage,Memory Cards,false,,490,5,2017,2022,2,0.0,0.0,0.0,,false,false,3.3,3.3,5.0,5.0,n,"","","",false
+range_min,Safety Light Curtains,false,,1869,5,2012,2021,25,0.993,0.796,0.993,,false,true,0.012,0.3,12.0,12.0,n,"","","",false
+voltageSupply_max,"Pressure Sensors, Transducers",false,,22184,23,2000,2022,52,0.079,0.628,0.628,,true,true,1.235,30.0,32.0,120.0,n,"","","",false
+inductance,Current Transformer Sensors,false,,239,3,2017,2022,131,0.981,0.0,0.981,,false,true,3.7999999999999996e-6,0.002,110.0,238.0,n,"","","",false
+sensitivityMvG,Accelerometers,false,,339,4,2007,2017,95,0.0,0.979,0.979,,false,true,0.05,100.0,2000.0,10000.0,n,"","","",false
+factoryPackQuantity,Linear Displacement Sensors,false,,1130,11,2004,2017,5,1.0,0.0,1.0,,true,true,1.0,1.0,10.0,14.0,n,"","","",false
+voltageSupply_max,"Image Sensors, Camera",false,,880,13,2007,2022,52,1.0,0.227,1.0,,true,true,1.1,3.3,25.2,240.0,n,"","","",false
+width,RF System on a Chip - SoC,false,,761,7,2016,2023,37,0.966,0.21,0.966,,false,true,0.0022,0.006,0.015,0.13590000000000002,n,"","","",false
+length,Zener Diodes,false,,2082,14,2002,2022,44,0.14,0.642,0.642,,true,true,0.00041,0.0029,0.0076,0.0254,n,"","","",false
+resistance,NTC Thermistors,false,,710,6,2007,2021,105,0.276,0.903,0.903,,false,true,0.5,4700.0,470000.0,1000000.0,n,"","","",false
+voltageSupply_max,RF Amplifiers,false,,5913,20,2002,2023,119,0.991,0.135,0.991,,true,true,1.0,6.0,65.0,265.0,n,"","","",false
+gearReductionRatio,Electric Actuators/Cylinders,false,,231,3,2015,2017,22,0.007,0.879,0.879,,false,true,0.66,50.0,256.0,256.0,n,"","","",false
+voltageSupply_min,Proximity Sensors - Industrial,false,,12827,23,2000,2022,35,0.653,0.155,0.653,,true,true,3.0,10.0,85.0,230.0,n,"","","",false
+voltageSupply_max,"Sensor, Transducer Amplifiers",false,,600,7,2003,2019,26,0.871,0.021,0.871,,false,true,3.45,28.0,240.0,260.0,n,"","","",false
+resistorBaseR1,"Single, Pre-Biased Bipolar Transistors",false,,3383,16,2002,2021,17,0.0,0.658,0.658,,true,true,220.0,10000.0,100000.0,200000.0,n,"","","",false
+voltageSupply_max,Power Management - Specialized,false,,5184,22,2002,2023,99,0.301,0.954,0.954,,true,true,0.5,5.5,80.0,480.0,n,"","","",false
+factoryPackQuantity,Solenoids & Actuators,false,,1655,7,2006,2017,31,0.836,0.0,0.836,,false,true,1.0,1.0,256.0,1000.0,n,"","","",false
+supplyVoltageMax,Safety Light Curtains,false,,294,3,2017,2019,5,0.0,0.0,0.0,,false,false,12.0,28.8,30.0,30.0,n,"","","",false
+thickness,Memory Cards,false,,734,6,2017,2022,8,0.824,0.0,0.824,,false,true,0.0007,0.0033,0.024,0.024,n,"","","",false
+voltageSupply_min,"Image Sensors, Camera",false,,880,13,2007,2022,55,0.661,0.211,0.661,,true,true,1.045,3.0,24.0,110.0,n,"","","",false
+voltageSupply_min,RF Amplifiers,false,,5903,20,2002,2023,123,0.661,0.643,0.661,,true,true,0.4,5.0,65.0,220.0,n,"","","",false
+voltageInput_max,"Power Supply Controllers, Monitors",false,,255,5,2010,2021,50,0.796,0.0,0.796,,false,true,1.55,26.0,640.0,700.0,n,"","","",false
+voltageSupply_max,"Serializers, Deserializers",false,,328,5,2002,2012,18,0.791,0.155,0.791,,false,true,1.8,3.6,34.0,34.0,n,"","","",false
+supplyVoltageMin,Photoelectric Sensors,false,,1295,14,2002,2021,23,0.954,0.022,0.954,,true,true,3.6,10.0,180.0,185.0,n,"","","",false
+sensingTemperatureRemote_max,Analog and Digital Output,false,,511,7,2002,2013,16,0.753,0.084,0.753,,false,true,70.0,125.0,850.0,2500.0,n,"","","",false
+width,Memory Cards,false,,755,6,2017,2022,8,0.0,0.719,0.719,,false,true,0.0021000000000000003,0.0364,0.0428,0.0428,n,"","","",false
+factoryPackQuantity,Clock Synthesizer / Jitter Cleaner,false,,2497,6,2014,2022,14,0.176,0.716,0.716,,false,true,1.0,260.0,1500.0,5000.0,n,"","","",false
+capacitanceInput,"Signal Buffers, Repeaters, Splitters",false,,369,6,2002,2021,30,0.699,0.0,0.699,,false,true,6e-13,1e-11,5e-11,3e-9,n,"","","",false
+length,Proximity Sensors,false,,628,9,2001,2019,42,0.453,0.664,0.664,,true,true,0.003,0.0381,0.068,0.1082,n,"","","",false
+controlVoltageRange_min,Solid State Relays - PCB Mount,false,,1448,10,2002,2021,54,0.671,0.0,0.671,,true,true,0.8,1.2,24.0,230.0,n,"","","",false
+resistance,Strain Gauges,false,,431,2,2012,2013,4,0.699,0.0,0.699,,false,true,120.0,350.0,5000.0,5000.0,n,"","","",false
+voltageSupply_min,"Drivers, Receivers, Transceivers",false,,9288,23,2000,2022,66,0.046,0.681,0.681,,true,true,0.3,3.0,9.0,40.0,n,"","","",false
+factoryPackQuantity,Memory Cards,false,,1551,8,2016,2023,26,1.051,0.0,1.051,,true,true,1.0,1.0,840.0,1800.0,n,"","","",false
+controlVoltageRange_max,Solid State Relays - PCB Mount,false,,1490,10,2002,2021,56,0.687,0.194,0.687,,true,true,0.8,1.4,36.0,240.0,n,"","","",false
+voltageSupply_min,"Serializers, Deserializers",false,,328,5,2002,2012,22,0.602,0.158,0.602,,false,true,1.6,3.0,10.0,18.0,n,"","","",false
+overvoltageThreshold,Supervisory Circuits,false,,1869,7,2012,2022,336,0.602,0.203,0.602,,false,true,0.7000000000000001,2.929,7.917,96.0,n,"","","",false
+measuringRangeMax,Proximity Sensors - Industrial,false,,1461,7,2012,2022,52,0.602,0.0,0.602,,false,true,0.0006,0.008,6.0,100.0,n,"","","",false
+length,NTC Thermistors,false,,359,4,2007,2017,72,0.595,0.426,0.595,,false,true,0.0006,0.017,0.3,2.0,n,"","","",false
+wavelength,"Fibre Optic Transmitters, Receivers, Transceivers",false,,496,4,2017,2021,76,0.005,0.0,0.005,,false,false,1.4000000000000001e-8,1.53661e-6,1.591e-6,1.731e-6,n,"","","",false
+dataRamSize,RF System on a Chip - SoC,false,,1057,7,2016,2023,41,0.592,0.301,0.592,,false,true,1000.0,96000.0,2000000.0,16000000.0,n,"","","",false
+factoryPackQuantity,LED Lenses & Assemblies,false,,857,6,2017,2022,124,0.59,0.0,0.59,,false,true,1.0,100.0,2800.0,8000.0,n,"","","",false
+collectorEmitterVoltageVceoMax,IGBT Modules,false,,192,3,2007,2017,8,0.582,0.0,0.582,,false,true,600.0,1200.0,6500.0,6500.0,n,"","","",false
+inputVoltageMax,Galvanically Isolated Gate Drivers,false,,609,3,2017,2022,10,0.561,0.041,0.561,,false,true,5.0,5.5,20.0,48.0,n,"","","",false
+resistanceInOhms25C,NTC Thermistors,false,,10479,21,2001,2022,210,0.699,0.0,0.699,,true,true,0.7,10000.0,470000.0,5000000.0,n,"","","",false
+voltageSupplySingleV_max,Analog Switches - Special Purpose,false,,1195,15,2000,2022,54,0.699,0.641,0.699,,true,true,1.05,5.0,200.0,250.0,n,"","","",false
+undervoltageThreshold,Supervisory Circuits,false,,1888,7,2012,2022,340,0.523,0.331,0.523,,false,true,0.6,2.842,7.684,42.57,n,"","","",false
+voltageClamping,Mixed Technology,false,,299,3,2017,2022,88,0.005,0.0,0.005,,false,false,2.45,77.0,875.0,950.0,n,"","","",false
+factoryPackQuantity,Current Transformer Sensors,false,,1244,7,2012,2022,58,0.519,0.0,0.519,,false,true,1.0,1.0,2500.0,4000.0,n,"","","",false
+inputVoltageMin,Switching Voltage Regulators,false,,3772,14,2008,2022,73,0.875,0.398,0.875,,true,true,0.3,2.5,26.0,45.0,n,"","","",false
+spectralRange_max,Photodiodes,false,,613,5,2006,2017,55,0.366,0.507,0.507,,false,true,1.2000000000000002e-8,1.1e-6,2.6e-6,2.6e-6,n,"","","",false
+cableLength,Fiber Optic Cable Assemblies,false,,8741,14,2010,2023,268,0.588,0.699,0.699,,true,true,0.0058,20.0,295.0,500.0,n,"","","",false
+resistanceOhms,Digital Potentiometers,false,,3418,15,2000,2021,29,0.699,0.0,0.699,,true,true,1000.0,50000.0,200000.0,1000000.0,n,"","","",false
+voltageSupply_min,"Power Supply Controllers, Monitors",false,,1437,18,2000,2021,88,0.699,0.528,0.699,,true,true,0.8,3.135,45.0,60.0,n,"","","",false
+viewingAngle,LED Panel Mount Indicators,false,,2007,10,2005,2021,20,0.255,0.699,0.699,,true,true,4.0,100.0,180.0,180.0,n,"","","",false
+diameterProtectiveTube,"Thermocouples, Temperature Probes",false,,761,4,2012,2019,30,0.243,0.477,0.477,,false,true,0.00013000000000000002,0.006,0.01,0.015,n,"","","",false
+factoryPackQuantity,JFETs,false,,337,4,2007,2017,10,0.477,0.0,0.477,,false,true,1.0,50.0,3000.0,3000.0,n,"","","",false
+voltageSupply_min,"Force Sensors, Load Cells",false,,201,3,2019,2021,10,0.135,0.477,0.477,,false,true,1.0,10.0,15.0,15.0,n,"","","",false
+height,RF System on a Chip - SoC,false,,579,6,2016,2023,38,0.456,0.452,0.456,,false,true,0.0003,0.00085,0.006,0.00762,n,"","","",false
+height,Current Transformer Sensors,false,,429,4,2012,2021,111,0.443,0.103,0.443,,false,true,0.0028,0.0105,0.156,0.304,n,"","","",false
+voltageSupply_max,"Position, Proximity, Speed (Modules)",false,,703,6,2007,2021,37,0.146,0.436,0.436,,false,true,3.0,30.0,250.0,1000.0,n,"","","",false
+numberOfDAConverters,Digital to Analog Converters (DAC),false,,6803,23,2000,2022,14,0.699,0.0,0.699,,true,true,1.0,2.0,32.0,96.0,n,"","","",false
+length,Current Transformer Sensors,false,,366,4,2012,2021,110,0.42,0.0,0.42,,false,true,0.0047,0.014480000000000002,0.155,0.6,n,"","","",false
+wavelength,Photodiodes,false,,612,6,2006,2021,69,0.213,0.415,0.415,,false,true,3.0000000000000004e-9,9.05e-7,1.5500000000000002e-6,3.7999999999999996e-6,n,"","","",false
+minimumLiquidSpecificGravity,"Float, Level Sensors",false,,231,3,2016,2021,12,0.413,0.035,0.413,,false,true,0.45,0.85,2.2,2.2,n,"","","",false
+continuousCollectorCurrentAt25C,IGBT Modules,false,,192,3,2007,2017,105,0.41,0.342,0.41,,false,true,5.0,250.0,2400.0,4930.0,n,"","","",false
+length,MOSFETs,false,,653,6,2010,2021,39,0.0,0.398,0.398,,false,true,0.0008,0.008,0.01613,0.02,n,"","","",false
+operatingSupplyVoltage,Transient Voltage Suppression Diodes - TVS,false,,262,4,2002,2017,78,0.398,0.357,0.398,,false,true,3.3,27.0,430.0,440.0,n,"","","",false
+currentTest,"LED COBs, Engines, Modules, Strips",false,,28548,14,2010,2023,186,0.234,0.942,0.942,,true,true,0.01,0.54,9.0,36.0,n,"","","",false
+voltageSupply_min,Specialized,false,,2350,18,2002,2022,61,0.707,0.279,0.707,,true,true,0.9,3.3,16.0,30.0,n,"","","",false
+viewingAngle,Lenses,false,,510,5,2017,2021,102,0.0,0.38,0.38,,false,true,2.0,35.0,180.0,360.0,n,"","","",false
+height,MOSFETs,false,,653,6,2010,2021,48,0.0,0.374,0.374,,false,true,0.00038,0.0044,0.0211,0.02616,n,"","","",false
+factoryPackQuantity,Clock Generators & Support Products,false,,8944,11,2010,2022,20,0.079,0.712,0.712,,true,true,1.0,490.0,3000.0,5000.0,n,"","","",false
+forwardTransconductanceMin,MOSFETs,false,,435,4,2012,2022,170,0.148,0.347,0.347,,false,true,0.002,15.0,155.0,190.0,n,"","","",false
+voltageSupply_min,"Position, Proximity, Speed (Modules)",false,,701,6,2007,2021,41,0.182,0.325,0.325,,false,true,1.8,24.0,250.0,1000.0,n,"","","",false
+width,MOSFETs,false,,653,6,2010,2021,44,0.038,0.319,0.319,,false,true,0.0006,0.00485,0.014,0.014,n,"","","",false
+cableDiameter,Fiber Optic Cable Assemblies,false,,1977,5,2017,2022,38,0.233,0.313,0.313,,false,true,0.0005,0.002,0.014199999999999999,3.0,n,"","","",false
+outputVoltage,Galvanically Isolated Gate Drivers,false,,619,3,2017,2022,26,0.302,0.0,0.302,,false,true,0.8,8.0,30.0,1700.0,n,"","","",false
+cableLength,Proximity Sensors - Industrial,false,,634,5,2017,2022,13,0.301,0.125,0.301,,false,true,0.15,2.0,10.0,10.0,n,"","","",false
+height,Zener Diodes,false,,1864,14,2002,2022,39,0.122,0.721,0.721,,true,true,0.00019,0.00102,0.0036000000000000003,0.0036000000000000003,n,"","","",false
+supplyVoltageMax,Digital Isolators,false,,2428,19,2004,2022,9,0.737,0.321,0.737,,true,true,2.625,5.5,30.0,36.0,n,"","","",false
+height,Single Color LEDs,false,,384,5,2007,2022,92,0.0,0.301,0.301,,false,true,0.0002,0.0014,0.0087,0.011,n,"","","",false
+collectorEmitterSaturationVoltage,IGBT Modules,false,,171,3,2007,2017,29,0.0,0.017,0.017,,false,false,1.25,1.75,3.2,3.7,n,"","","",false
+voltageSupplySingleV_min,Analog Switches - Special Purpose,false,,1195,15,2000,2022,48,0.745,0.528,0.745,,true,true,0.8,3.0,40.0,50.0,n,"","","",false
+factoryPackQuantity,IGBT Modules,false,,339,4,2007,2017,21,0.0,0.301,0.301,,false,true,1.0,10.0,200.0,1000.0,n,"","","",false
+voltageInput_min,"Laser Diodes, Modules",false,,548,7,2007,2021,67,0.301,0.2,0.301,,false,true,1.15,3.0,36.0,120.0,n,"","","",false
+voltageSupply_min,Proximity Sensors,false,,2708,13,2002,2022,34,0.875,0.783,0.875,,true,true,1.65,10.0,24.0,264.0,n,"","","",false
+width,Zener Diodes,false,,1863,14,2002,2022,32,0.359,0.792,0.792,,true,true,0.00021,0.0014,0.00394,0.00622,n,"","","",false
+activeModeCurrent,Solid State Drives - SSD,false,,863,6,2016,2022,124,0.278,0.0,0.278,,false,true,0.125,0.385,1.235,2.725,n,"","","",false
+voltageSupplySingleV_max,"Analog Switches, Multiplexers, Demultiplexers",false,,5350,22,2000,2022,55,0.796,0.402,0.796,,true,true,1.9,6.0,44.0,250.0,n,"","","",false
+voltageSupply_max,"LCD, OLED Character and Numeric",false,,1819,17,2001,2021,37,0.798,0.0,0.798,,true,true,2.7,5.0,35.0,250.0,n,"","","",false
+activeModeCurrent,Memory Cards,false,,346,4,2017,2022,65,0.244,0.0,0.244,,false,true,0.05,0.23,1.0,1.0,n,"","","",false
+supplyVoltageMin,Proximity Sensors - Industrial,false,,799,6,2017,2022,12,0.243,0.0,0.243,,false,true,2.0,12.0,24.0,40.0,n,"","","",false
+voltageInput_max,"Laser Diodes, Modules",false,,548,7,2007,2021,71,0.0,0.243,0.243,,false,true,1.15,6.0,36.0,220.0,n,"","","",false
+voltageOutputMax,Voltage Regulators - DC DC Switching Regulators,false,,13249,24,2000,2023,401,0.477,0.805,0.805,,true,true,0.6,12.0,85.0,700.0,n,"","","",false
+supplyVoltageMin,Gate Drivers,false,,818,6,2016,2022,33,0.225,0.0,0.225,,false,true,0.5,3.0,23.5,23.5,n,"","","",false
+width,NTC Thermistors,false,,219,3,2012,2017,54,0.144,0.222,0.222,,false,true,0.0003,0.002,0.0195,0.023,n,"","","",false
+numberOfCircuits,Telecom,false,,1231,9,2002,2018,20,0.813,0.0,0.813,,true,true,1.0,1.0,24.0,84.0,n,"","","",false
+width,Current Transformer Sensors,false,,436,4,2012,2021,101,0.214,0.105,0.214,,false,true,0.00365,0.013000000000000001,0.09,0.3,n,"","","",false
+width,Single Color LEDs,false,,486,7,2003,2022,62,0.183,0.204,0.204,,false,true,0.0003,0.0024,0.0076,0.035,n,"","","",false
+length,Single Color LEDs,false,,484,7,2003,2022,57,0.183,0.204,0.204,,false,true,0.0006,0.003,0.0076,0.035,n,"","","",false
+length,Solenoids & Actuators,false,,572,3,2013,2017,70,0.198,0.0,0.198,,false,true,0.007,0.026600000000000002,0.07455,0.088,n,"","","",false
+currentPeakOutput,Full Half-Bridge (H Bridge) Drivers,false,,324,4,2017,2022,95,0.187,0.058,0.187,,false,true,0.05,17.0,150.0,200.0,n,"","","",false
+voltageSupply_max,Photo Detectors - Remote Receiver,false,,1042,7,2006,2019,4,0.0,0.184,0.184,,false,true,3.6,5.5,5.5,6.0,n,"","","",false
+width,Photoelectric Sensors,false,,251,3,2007,2017,46,0.058,0.183,0.183,,false,true,0.001,0.03,0.13335,0.1524,n,"","","",false
+voltageSupply_max,Distance Measuring,false,,541,4,2017,2021,29,0.0,0.18,0.18,,false,true,3.0,30.0,30.0,250.0,n,"","","",false
+voltageSupply_max,Switches (Solid State),false,,3332,18,2002,2022,39,0.824,0.243,0.824,,true,true,1.3,24.0,38.0,250.0,n,"","","",false
+viewingAngle,Photodiodes,false,,265,4,2006,2017,65,0.062,0.176,0.176,,false,true,16.0,110.0,150.0,180.0,n,"","","",false
+length,Photoelectric Sensors,false,,456,7,2002,2017,44,0.144,0.176,0.176,,false,true,0.002,0.022,0.127,0.15875,n,"","","",false
+voltageProtectionLevelVp2416,Surge Protection Devices (SPDs),false,,1064,7,2012,2021,109,0.049,0.176,0.176,,false,true,20.0,1400.0,5000.0,6800.0,n,"","","",false
+voltageSupply_max,"Humidity, Moisture Sensors",false,,423,6,2012,2022,28,0.176,0.0,0.176,,false,true,1.0,5.5,36.0,48.0,n,"","","",false
+factoryPackQuantity,Galvanically Isolated Gate Drivers,false,,1165,5,2017,2022,29,0.079,0.158,0.158,,false,true,1.0,1000.0,2500.0,6000.0,n,"","","",false
+voltageSupply_max,Gas Sensors,false,,635,7,2012,2022,48,0.125,0.155,0.155,,false,true,0.005,5.5,36.0,40.0,n,"","","",false
+voltageSupply_min,Gas Sensors,false,,635,7,2012,2022,53,0.0,0.155,0.155,,false,true,0.005,3.6,23.8,24.0,n,"","","",false
+bPFCenterFrequency,Photo Detectors - Remote Receiver,false,,1035,7,2006,2019,16,0.153,0.0,0.153,,false,true,20000.0,38000.0,56800.0,57600.0,n,"","","",false
+voltageSupply_max,"Force Sensors, Load Cells",false,,201,3,2019,2021,10,0.0,0.143,0.143,,false,false,3.6,10.0,300.0,300.0,n,"","","",false
+operatingSupplyVoltage,Memory Modules,false,,1365,8,2012,2023,12,0.824,0.089,0.824,,true,true,1.05,1.5,5.0,12.0,n,"","","",false
+outputPhases,DC DC Switching Controllers,false,,7899,23,2000,2022,12,0.824,0.0,0.824,,true,true,1.0,1.0,6.0,20.0,n,"","","",false
+bandwidth,Accelerometers,false,,142,2,2007,2017,47,0.118,0.134,0.134,,false,false,8.0,400.0,32000.0,45000.0,n,"","","",false
+factoryPackQuantity,LDO Voltage Regulators,false,,5084,16,2006,2022,21,0.824,0.097,0.824,,true,true,4.0,3000.0,10000.0,20000.0,n,"","","",false
+wavelength,"LED COBs, Engines, Modules, Strips",false,,166,2,2017,2021,63,0.003,0.025,0.025,,false,false,2.75e-7,5.27e-7,9.400000000000001e-7,9.400000000000001e-7,n,"","","",false
+voltageSupply_max,FIFOs Memory,false,,1360,6,2001,2007,7,0.0,0.119,0.119,,false,false,1.9,3.6,5.5,6.0,n,"","","",false
+lengthProtectiveTube,"Thermocouples, Temperature Probes",false,,760,4,2012,2019,50,0.114,0.097,0.114,,false,false,0.01,0.1,1.3,5.0,n,"","","",false
+spectralRange_min,Photodiodes,false,,613,5,2006,2017,63,0.102,0.103,0.103,,false,false,1e-9,4.0000000000000003e-7,1.1e-6,1.3e-6,n,"","","",false
+voltageSupply_min,FIFOs Memory,false,,1360,6,2001,2007,8,0.0,0.101,0.101,,false,false,1.7,3.15,4.5,4.5,n,"","","",false
+compensatedTemperature_max,"Force Sensors, Load Cells",false,,213,4,2017,2021,10,0.0,0.097,0.097,,false,false,40.0,60.0,150.0,150.0,n,"","","",false
+transmissionDistance,"Fibre Optic Transmitters, Receivers, Transceivers",false,,354,4,2017,2021,37,0.097,0.0,0.097,,false,false,5.0,40000.0,300000.0,300000.0,n,"","","",false
+inputVoltageMax,Gate Drivers,false,,196,2,2021,2022,18,0.082,0.0,0.082,,false,false,3.47,20.0,30.0,35.0,n,"","","",false
+supplyVoltageMin,Safety Light Curtains,false,,244,3,2017,2019,7,0.079,0.0,0.079,,false,false,10.0,19.2,20.4,20.4,n,"","","",false
+voltageSupply_min,"Force Sensors, Load Cells - Industrial",false,,545,3,2017,2021,13,0.079,0.0,0.079,,false,false,1.0,5.0,12.0,15.0,n,"","","",false
+voltageSupply_min,Photo Detectors - Remote Receiver,false,,1041,7,2006,2019,7,0.019,0.079,0.079,,false,false,2.0,2.5,4.5,4.7,n,"","","",false
+viewingAngle,LED Lenses & Assemblies,false,,256,3,2019,2021,75,0.0,0.079,0.079,,false,false,3.0,28.0,150.0,165.0,n,"","","",false
+voltageSupplyVccVdd_max,Microcontrollers,false,,71968,25,2000,2024,57,0.824,0.212,0.824,,true,true,0.945,5.25,5.5,40.0,n,"","","",false
+mustOperate,"Position, Proximity, Speed (Modules)",false,,302,2,2007,2012,48,0.073,0.0,0.073,,false,false,0.00254,0.006,0.03175,0.192,n,"","","",false
+voltageSupplyAnalog_max,Analog to Digital Converters (ADC),false,,8296,23,2000,2022,37,0.839,0.284,0.839,,true,true,1.025,5.0,5.5,38.0,n,"","","",false
+supplyVoltageMin,Galvanically Isolated Gate Drivers,false,,757,4,2017,2022,20,0.068,0.0,0.068,,false,false,0.5,6.5,7.6,13.0,n,"","","",false
+supplyVoltageMax,Galvanically Isolated Gate Drivers,false,,758,4,2017,2022,19,0.067,0.0,0.067,,false,false,4.0,24.0,35.0,35.0,n,"","","",false
+operatingTemperatureJunction_min,Diode Arrays,false,,478,6,2017,2022,4,0.067,0.0,0.067,,false,false,125.0,150.0,175.0,175.0,n,"","","",false
+voltageSupply_min,Distance Measuring,false,,541,4,2017,2021,34,0.0,0.062,0.062,,false,false,1.8,12.0,21.6,210.0,n,"","","",false
+viewingAngle,Single Color LEDs,false,,449,6,2003,2022,40,0.0,0.046,0.046,,false,false,6.0,120.0,170.0,170.0,n,"","","",false
+voltageSupply_max,"Pressure Sensors, Transducers - Industrial",false,,40417,24,2000,2023,36,0.867,0.155,0.867,,true,true,1.5,30.0,36.0,265.0,n,"","","",false
+supplyVoltageMax,Gate Drivers,false,,864,7,2015,2022,30,0.0,0.041,0.041,,false,false,3.3,20.0,50.0,75.0,n,"","","",false
+tdpMax,CPU - Central Processing Units,false,,579,4,2017,2023,118,0.039,0.0,0.039,,false,false,3.0,65.0,350.0,420.0,n,"","","",false
+diameter,LED Lenses & Assemblies,false,,363,5,2017,2021,79,0.03,0.0,0.03,,false,false,0.0018000000000000002,0.0225,0.075,0.09,n,"","","",false
+voltageClampingMaxIpp,TVS Diodes,false,,83295,24,2000,2023,1137,0.0,0.079,0.079,,true,false,2.0,48.4,658.0,1292.0,?,"","","",false
+voltageContinuousOperatingMaxMcov,Surge Protection Devices (SPDs),false,,8537,12,2011,2022,107,0.0,0.37,0.37,,true,true,1.2,320.0,1100.0,2000.0,?,"","","",false
+current,"Panel Indicators, Pilot Lights",false,,10874,22,2001,2022,73,0.74,0.398,0.74,,true,true,0.0003,0.02,0.08,12.0,?,"","","",false
+frequency_min,RF Circulators,false,,1077,4,2017,2021,82,0.512,0.0,0.512,,false,true,135000000.0,4000000000.0,40000000000.0,92000000000.0,?,"","","",false
+currentHoldIhMax,SCRs - Modules,false,,1329,7,2002,2021,21,0.523,0.415,0.523,,false,true,0.003,0.2,0.6,1.0,?,"","","",false
+currentHoldIhMax,SCRs,false,,2232,12,2002,2022,38,0.699,0.477,0.699,,true,true,0.001,0.04,1.0,40.0,?,"","","",false
+voltageRated,Electric Actuators/Cylinders,false,,524,6,2015,2022,47,0.824,0.032,0.824,,false,true,3.0,12.0,150.0,230.0,?,"","","",false
+frequency_min,RF Amplifiers,false,,5611,20,2002,2023,300,0.653,1.0,1.0,,true,true,500.0,1800000000.0,57000000000.0,92000000000.0,?,"","","",false
+loadVoltageRating_min,Solid State Relays - PCB Mount,false,,783,7,2007,2021,41,0.0,1.602,1.602,,false,true,1.0,250.0,1000.0,1500.0,?,"","","",false
+voltageLoad_min,Full Half-Bridge (H Bridge) Drivers,false,,578,7,2012,2022,58,1.731,0.857,1.731,,false,true,0.25,4.5,600.0,700.0,?,"","","",false
+frequency_min,"Position, Proximity, Speed (Modules)",false,,481,4,2017,2021,44,0.079,2.0,2.0,,false,true,1.0,1000.0,60000.0,200000.0,?,"","","",false
+currentHoldIh,Thyristors,false,,2080,11,2002,2022,17,0.602,0.398,0.602,,true,true,0.01,0.15,0.18,0.8,?,"","","",false
+inputCurrent,Solid State Relays - Industrial Mount,false,,1082,7,2012,2022,86,2.176,0.12,2.176,,false,true,0.002,0.01,5.0,90.0,?,"","","",false
+current,"Float, Level Sensors",false,,1447,5,2012,2021,37,0.0,2.398,2.398,,false,true,9.999999999999999e-6,0.1,10.0,20.0,?,"","","",false
+current,RTD (Resistance Temperature Detector),false,,559,4,2017,2021,20,4.778,0.477,4.778,,false,true,0.00008999999999999999,0.0014,0.023,300.0,?,"","","",false
+voltage,"Panel Indicators, Pilot Lights",false,,14603,23,2000,2022,67,0.0,0.0,0.0,,true,false,1.6,24.0,380.0,600.0,?,"","","",false
+thresholdVoltage,Supervisory Circuits,false,,5261,9,2008,2022,116,0.602,0.0,0.602,,true,true,0.1,2.9,7.3,43.0,?,"","","",false
+current,"Float, Level Sensors - Industrial",false,,694,4,2017,2021,30,0.0,0.0,0.0,,false,false,0.0005,0.04,5.0,10.0,?,"","","",false
+loadVoltageRating_min,Solid State Relays - Industrial Mount,false,,2705,14,2007,2022,50,0.686,0.699,0.699,,true,true,1.0,48.0,600.0,1600.0,?,"","","",false
+currentGateTriggerIgtMax,TRIACs,false,,2716,14,2002,2021,22,0.477,0.0,0.477,,true,true,0.003,0.03,0.1,0.22,?,"","","",false
+numberOfCells,Battery Management,false,,2400,19,2003,2022,17,1.079,0.0,1.079,,true,true,1.0,1.0,16.0,36.0,?,"","","",false
+voltageThreshold,Supervisors,false,,32303,23,2000,2022,271,0.563,0.505,0.563,,true,true,0.1,3.08,5.9,37.0,?,"","","",false
+currentLedTriggerIftMax,"Triac, SCR Output Optoisolators",false,,1178,10,2002,2017,15,0.0,0.035,0.035,,true,false,0.0012,0.01,0.03,0.03,?,"","","",false
+frequency_min,"RF FETs, MOSFETs",false,,2429,17,2002,2022,196,0.122,1.132,1.132,,true,true,1000000.0,1600000000.0,20000000000.0,40000000000.0,?,"","","",false
+current,"Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",false,,4130,15,2001,2019,37,0.79,0.0,0.79,,true,true,0.001,0.02,0.15,0.2,?,"","","",false
+voltageRating,Solenoids & Actuators,false,,908,3,2013,2017,233,0.058,0.123,0.123,,false,false,3.0,38.0,385.0,469.0,?,"","","",false
+voltageProtectionRatingVpr,Surge Protection Devices (SPDs),false,,3796,12,2011,2022,38,1.204,0.62,1.204,,true,true,18.0,2000.0,10000.0,40000.0,?,"","","",false
+hysteresis,Comparators,false,,863,10,2004,2018,50,0.477,1.176,1.176,,true,true,0.00009999999999999999,0.006500000000000001,0.075,0.1,?,"","","",false
+currentHoldIh,"Triac, SCR Output Optoisolators",false,,246,4,2007,2017,14,0.0,0.0,0.0,,false,false,0.00009999999999999999,0.0005,0.025,0.05,?,"","","",false
+receiverHysteresis,"Drivers, Receivers, Transceivers",false,,7121,23,2000,2022,68,0.523,0.301,0.523,,true,true,0.000029999999999999997,0.14,0.75,2.25,?,"","","",false
+currentGateTriggerIgtMax,SCRs,false,,2818,15,2002,2022,50,0.125,0.0,0.125,,true,false,1e-6,0.035,0.3,3.0,?,"","","",false
+numberOfTaps,Digital Potentiometers,false,,3415,15,2000,2021,12,0.0,0.903,0.903,,true,true,4.0,129.0,1024.0,1024.0,?,"","","",false
+voltageReverseStandoffTyp,TVS Diodes,false,,78591,24,2000,2023,362,0.0,0.18,0.18,,true,true,0.1,30.8,408.0,708.0,?,"","","",false
+frequency_min,LED Drivers,false,,4240,18,2004,2022,158,0.824,2.301,2.301,,true,true,50.0,800000.0,35000000.0,200000000.0,?,"","","",false
+currentHoldIhMax,TRIACs,false,,2570,12,2002,2021,23,0.097,0.222,0.222,,true,true,0.003,0.035,0.1,0.15,?,"","","",false
+voltageRated,"RF FETs, MOSFETs",false,,2521,17,2002,2022,75,0.114,0.0,0.114,,true,false,3.0,65.0,225.0,1000.0,?,"","","",false
+workingVoltage,Transient Voltage Suppression Diodes - TVS,false,,5689,20,2002,2022,203,0.109,0.301,0.301,,true,true,1.0,22.0,342.0,495.0,?,"","","",false
+inputCurrent,Solid State Relays - PCB Mount,false,,1470,10,2002,2021,43,1.544,1.875,1.875,,true,true,0.0001,0.05,0.1,6.0,?,"","","",false
+currentGateTriggerIgtMax,SCRs - Modules,false,,1782,10,2002,2021,22,0.301,0.301,0.301,,true,true,0.00009999999999999999,0.15,0.35000000000000003,0.6,?,"","","",false
+voltageLoad_min,"Power Distribution Switches, Load Drivers",false,,5310,23,2000,2023,103,1.59,1.13,1.59,,true,true,0.1,2.7,600.0,1400.0,?,"","","",false
+frequency_min,Programmable Timers and Oscillators,false,,646,10,2000,2017,124,0.918,1.536,1.536,,true,true,0.0000291,2550000.0,707350000.0,1124000000.0,?,"","","",false
+voltage,Power Driver Modules,false,,695,10,2004,2022,19,0.151,1.523,1.523,,true,true,5.0,600.0,1200.0,1700.0,?,"","","",false
+frequency_min,"Ultrasonic Receivers, Transmitters",false,,1628,11,2011,2022,52,0.354,2.903,2.903,,true,true,50.0,42000.0,500000.0,2450000.0,?,"","","",false
+clampingVoltage,Transient Voltage Suppression Diodes - TVS,false,,5349,20,2002,2022,381,0.114,0.362,0.362,,true,true,4.0,38.9,548.0,1000.0,?,"","","",false
+numberOfCells,Battery Chargers,false,,2103,21,2000,2022,7,0.544,0.0,0.544,,true,true,1.0,1.0,4.0,14.0,?,"","","",false
+voltageRating,"Circuit Board Indicators, Arrays, Light Bars, Bar Graphs",false,,3758,15,2001,2019,44,0.38,0.026,0.38,,true,true,1.6,2.1,5.0,24.0,?,"","","",false
+voltageLoad_min,"Motor Drivers, Controllers",false,,2386,20,2002,2022,101,1.477,0.327,1.477,,true,true,0.16,5.5,400.0,600.0,?,"","","",false
+current,Power Driver Modules,false,,711,10,2004,2022,75,0.477,1.398,1.398,,true,true,0.012,15.0,900.0,1800.0,?,"","","",false
+batteryPackVoltage,Battery Chargers,false,,1859,16,2000,2018,71,0.0,0.437,0.437,,true,true,1.5,4.2,16.8,21.0,?,"","","",false
+frequency_min,Current Sensors,false,,1347,8,2007,2022,55,0.0,1.301,1.301,,true,true,1.0,40000.0,1000000.0,1150000.0,?,"","","",false
+numberOfPositions,Sensor Cable Assemblies,false,,1092,9,2007,2021,10,0.301,0.477,0.477,,true,true,1.0,3.0,8.0,12.0,?,"","","",false
