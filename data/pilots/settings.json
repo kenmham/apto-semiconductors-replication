@@ -1,0 +1,13 @@
+{
+  "model_requested": "claude-opus-4-8",
+  "interface": "claude -p PROMPT --model MODEL",
+  "forecast_v1_prompt": "v1",
+  "forecast_v2_prompt": "v2",
+  "ablation_prompt": "build_ablation_prompt",
+  "attribution_prompt": "build_attribution_prompt",
+  "temperature": "not explicitly set",
+  "seed": "not explicitly set for model calls",
+  "resolved_model_revision": "not recorded",
+  "forecast_raw_text": "Saved raw text can be truncated; parsed scores are retained.",
+  "ablation_and_attribution_responses": "Parsed responses retained; complete raw model output was not saved in these CSVs."
+}

@@ -1,0 +1,433 @@
+base_id,arm,subcategory,metric,pass_i,feature,level,propensity,ok
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_held,lo,33,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,median_slope_3y,hi,45,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,challenger_gapclose_3y,hi,54,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,new_mfr_rate_3y,lo,30,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_margin,lo,51,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,packaging,lo,20,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_margin,hi,24,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,near_frontier_trend,lo,26,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_held,hi,19,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,yrs_since_jump,lo,27,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,eff_mfrs,hi,50,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,median_slope_3y,lo,30,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,yrs_since_jump,hi,17,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,new_mfr_rate_3y,hi,56,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,near_frontier_trend,hi,49,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,challenger_gapclose_3y,lo,22,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,packaging,hi,31,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,eff_mfrs,lo,30,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,leader_held,hi,20,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,packaging,hi,34,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,eff_mfrs,lo,24,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,new_mfr_rate_3y,lo,35,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,packaging,lo,26,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,challenger_gapclose_3y,lo,35,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,yrs_since_jump,lo,35,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,near_frontier_trend,lo,30,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,challenger_gapclose_3y,hi,50,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,near_frontier_trend,hi,52,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,leader_held,lo,28,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,yrs_since_jump,hi,18,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,eff_mfrs,hi,35,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,leader_margin,lo,51,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,median_slope_3y,lo,27,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,new_mfr_rate_3y,hi,56,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,median_slope_3y,hi,55,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,1,leader_margin,hi,28,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,near_frontier_trend,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,leader_held,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,eff_mfrs,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,leader_margin,hi,22,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,leader_margin,lo,47,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,near_frontier_trend,hi,45,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,challenger_gapclose_3y,hi,51,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,new_mfr_rate_3y,hi,56,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,eff_mfrs,hi,50,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,median_slope_3y,hi,46,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,new_mfr_rate_3y,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,yrs_since_jump,lo,24,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,leader_held,hi,34,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,packaging,lo,21,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,packaging,hi,31,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,yrs_since_jump,hi,27,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,challenger_gapclose_3y,lo,19,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,1,median_slope_3y,lo,30,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,challenger_gapclose_3y,lo,24,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,yrs_since_jump,hi,23,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_margin,lo,52,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,new_mfr_rate_3y,hi,56,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_held,lo,35,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,challenger_gapclose_3y,hi,54,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,eff_mfrs,hi,44,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,packaging,hi,33,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,near_frontier_trend,lo,27,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,yrs_since_jump,lo,42,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,median_slope_3y,hi,48,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_margin,hi,21,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,leader_held,hi,18,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,near_frontier_trend,hi,50,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,eff_mfrs,lo,20,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,new_mfr_rate_3y,lo,35,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,packaging,lo,27,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,1,median_slope_3y,lo,22,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,leader_held,lo,36,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,near_frontier_trend,hi,41,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,new_mfr_rate_3y,lo,41,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,leader_margin,lo,41,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,eff_mfrs,lo,27,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,challenger_gapclose_3y,hi,54,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,challenger_gapclose_3y,lo,29,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,leader_margin,hi,31,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,packaging,hi,39,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,median_slope_3y,hi,56,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,yrs_since_jump,lo,47,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,near_frontier_trend,lo,29,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,packaging,lo,37,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,new_mfr_rate_3y,hi,61,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,leader_held,hi,32,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,eff_mfrs,hi,50,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,median_slope_3y,lo,24,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,1,yrs_since_jump,hi,26,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,median_slope_3y,hi,41,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,yrs_since_jump,lo,30,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,packaging,hi,29,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,challenger_gapclose_3y,lo,30,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,challenger_gapclose_3y,hi,46,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,new_mfr_rate_3y,hi,30,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,yrs_since_jump,hi,19,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,near_frontier_trend,lo,24,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,leader_margin,lo,45,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,new_mfr_rate_3y,lo,24,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,leader_held,hi,16,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,eff_mfrs,hi,30,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,median_slope_3y,lo,30,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,leader_margin,hi,30,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,packaging,lo,26,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,eff_mfrs,lo,21,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,near_frontier_trend,hi,48,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,1,leader_held,lo,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,median_slope_3y,lo,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,leader_margin,hi,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,new_mfr_rate_3y,lo,24,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,packaging,lo,24,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,near_frontier_trend,hi,46,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,packaging,hi,32,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,leader_held,lo,41,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,median_slope_3y,hi,45,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,near_frontier_trend,lo,22,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,eff_mfrs,hi,43,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,yrs_since_jump,lo,43,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,yrs_since_jump,hi,17,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,leader_held,hi,17,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,challenger_gapclose_3y,lo,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,leader_margin,lo,44,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,eff_mfrs,lo,20,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,new_mfr_rate_3y,hi,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,1,challenger_gapclose_3y,hi,50,True
+122,control,LDO Voltage Regulators,outputCurrent,1,challenger_gapclose_3y,lo,28,True
+122,control,LDO Voltage Regulators,outputCurrent,1,new_mfr_rate_3y,hi,56,True
+122,control,LDO Voltage Regulators,outputCurrent,1,yrs_since_jump,hi,24,True
+122,control,LDO Voltage Regulators,outputCurrent,1,challenger_gapclose_3y,hi,66,True
+122,control,LDO Voltage Regulators,outputCurrent,1,packaging,hi,38,True
+122,control,LDO Voltage Regulators,outputCurrent,1,new_mfr_rate_3y,lo,33,True
+122,control,LDO Voltage Regulators,outputCurrent,1,leader_held,hi,20,True
+122,control,LDO Voltage Regulators,outputCurrent,1,eff_mfrs,hi,48,True
+122,control,LDO Voltage Regulators,outputCurrent,1,leader_held,lo,54,True
+122,control,LDO Voltage Regulators,outputCurrent,1,leader_margin,hi,25,True
+122,control,LDO Voltage Regulators,outputCurrent,1,packaging,lo,26,True
+122,control,LDO Voltage Regulators,outputCurrent,1,eff_mfrs,lo,19,True
+122,control,LDO Voltage Regulators,outputCurrent,1,near_frontier_trend,hi,60,True
+122,control,LDO Voltage Regulators,outputCurrent,1,median_slope_3y,lo,22,True
+122,control,LDO Voltage Regulators,outputCurrent,1,yrs_since_jump,lo,50,True
+122,control,LDO Voltage Regulators,outputCurrent,1,leader_margin,lo,62,True
+122,control,LDO Voltage Regulators,outputCurrent,1,near_frontier_trend,lo,26,True
+122,control,LDO Voltage Regulators,outputCurrent,1,median_slope_3y,hi,55,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,near_frontier_trend,hi,52,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,new_mfr_rate_3y,lo,26,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_held,hi,28,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,new_mfr_rate_3y,hi,40,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_held,lo,40,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,near_frontier_trend,lo,40,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,median_slope_3y,hi,56,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,yrs_since_jump,lo,47,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_margin,hi,31,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,eff_mfrs,lo,24,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,packaging,lo,33,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,challenger_gapclose_3y,hi,62,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,packaging,hi,44,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,eff_mfrs,hi,53,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,challenger_gapclose_3y,lo,27,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_margin,lo,60,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,yrs_since_jump,hi,23,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,median_slope_3y,lo,25,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,eff_mfrs,hi,57,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,yrs_since_jump,lo,60,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,challenger_gapclose_3y,hi,66,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,packaging,lo,42,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,median_slope_3y,hi,63,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,packaging,hi,50,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,median_slope_3y,lo,36,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,near_frontier_trend,lo,38,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,new_mfr_rate_3y,hi,48,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_margin,hi,34,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_held,lo,41,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,new_mfr_rate_3y,lo,40,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,eff_mfrs,lo,30,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,yrs_since_jump,hi,33,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,near_frontier_trend,hi,64,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,challenger_gapclose_3y,lo,34,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_held,hi,32,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_margin,lo,48,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,eff_mfrs,lo,32,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,yrs_since_jump,hi,34,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_held,lo,55,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,eff_mfrs,hi,57,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,challenger_gapclose_3y,hi,60,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,yrs_since_jump,lo,52,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_margin,lo,45,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,near_frontier_trend,lo,34,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_margin,hi,32,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,leader_held,hi,26,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,near_frontier_trend,hi,45,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,median_slope_3y,hi,55,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,packaging,hi,46,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,new_mfr_rate_3y,lo,45,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,packaging,lo,39,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,challenger_gapclose_3y,lo,31,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,median_slope_3y,lo,31,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,1,new_mfr_rate_3y,hi,61,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,median_slope_3y,lo,33,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,eff_mfrs,hi,40,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,near_frontier_trend,lo,32,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,yrs_since_jump,lo,55,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,median_slope_3y,hi,52,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,challenger_gapclose_3y,hi,60,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_held,hi,40,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,packaging,hi,41,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,new_mfr_rate_3y,lo,34,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,challenger_gapclose_3y,lo,27,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,yrs_since_jump,hi,24,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,eff_mfrs,lo,27,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_margin,hi,30,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_margin,lo,56,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,packaging,lo,27,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,near_frontier_trend,hi,62,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,new_mfr_rate_3y,hi,55,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,1,leader_held,lo,49,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,packaging,lo,20,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,challenger_gapclose_3y,lo,21,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,near_frontier_trend,lo,25,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,median_slope_3y,lo,30,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,yrs_since_jump,hi,23,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_margin,hi,25,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,eff_mfrs,lo,30,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_held,hi,20,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_margin,lo,42,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,new_mfr_rate_3y,lo,30,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,challenger_gapclose_3y,hi,48,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,median_slope_3y,hi,46,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,yrs_since_jump,lo,38,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,near_frontier_trend,hi,44,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,new_mfr_rate_3y,hi,50,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,eff_mfrs,hi,45,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_held,lo,35,True
+22,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,packaging,hi,33,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,leader_margin,lo,52,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,new_mfr_rate_3y,lo,42,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,leader_margin,hi,32,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,leader_held,hi,27,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,eff_mfrs,lo,24,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,near_frontier_trend,lo,33,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,challenger_gapclose_3y,lo,40,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,near_frontier_trend,hi,56,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,yrs_since_jump,hi,23,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,packaging,hi,39,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,yrs_since_jump,lo,40,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,median_slope_3y,hi,53,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,new_mfr_rate_3y,hi,61,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,eff_mfrs,hi,40,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,leader_held,lo,43,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,challenger_gapclose_3y,hi,58,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,packaging,lo,34,True
+52,signal,FPGAs (Field Programmable Gate Array),numberOfLogicElementsCells,2,median_slope_3y,lo,29,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,median_slope_3y,hi,45,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,challenger_gapclose_3y,hi,47,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,new_mfr_rate_3y,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,leader_margin,lo,55,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,packaging,lo,19,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,new_mfr_rate_3y,hi,56,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,packaging,hi,33,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,yrs_since_jump,lo,38,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,challenger_gapclose_3y,lo,22,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,yrs_since_jump,hi,18,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,near_frontier_trend,hi,49,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,leader_margin,hi,22,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,leader_held,hi,19,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,near_frontier_trend,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,median_slope_3y,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,eff_mfrs,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,leader_held,lo,30,True
+42,signal,FPGAs (Field Programmable Gate Array),numberOfLabsClbs,2,eff_mfrs,hi,52,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,median_slope_3y,lo,30,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,near_frontier_trend,hi,45,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_margin,lo,52,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,yrs_since_jump,hi,24,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_held,lo,35,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,yrs_since_jump,lo,40,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,new_mfr_rate_3y,hi,56,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,packaging,lo,24,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,new_mfr_rate_3y,lo,35,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,challenger_gapclose_3y,lo,25,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,median_slope_3y,hi,48,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_held,hi,20,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,eff_mfrs,hi,46,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,packaging,hi,36,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,leader_margin,hi,27,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,challenger_gapclose_3y,hi,53,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,eff_mfrs,lo,22,True
+26,signal,FPGAs (Field Programmable Gate Array),numberOfIO,2,near_frontier_trend,lo,28,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,yrs_since_jump,hi,37,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,new_mfr_rate_3y,hi,63,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,median_slope_3y,hi,61,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,leader_margin,hi,32,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,median_slope_3y,lo,30,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,challenger_gapclose_3y,hi,60,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,leader_margin,lo,45,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,leader_held,hi,33,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,near_frontier_trend,lo,35,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,challenger_gapclose_3y,lo,31,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,eff_mfrs,hi,55,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,near_frontier_trend,hi,45,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,leader_held,lo,52,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,eff_mfrs,lo,29,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,packaging,lo,36,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,yrs_since_jump,lo,50,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,packaging,hi,46,True
+3,signal,FPGAs (Field Programmable Gate Array),numberOfGates,2,new_mfr_rate_3y,lo,45,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,new_mfr_rate_3y,hi,32,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,leader_held,lo,32,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,packaging,hi,31,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,yrs_since_jump,hi,19,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,eff_mfrs,hi,32,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,packaging,lo,29,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,leader_held,hi,21,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,new_mfr_rate_3y,lo,26,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,median_slope_3y,lo,32,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,near_frontier_trend,hi,43,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,eff_mfrs,lo,23,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,yrs_since_jump,lo,32,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,median_slope_3y,hi,41,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,leader_margin,lo,46,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,near_frontier_trend,lo,25,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,challenger_gapclose_3y,hi,47,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,challenger_gapclose_3y,lo,32,True
+68,signal,FPGAs (Field Programmable Gate Array),totalRamBits,2,leader_margin,hi,32,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,eff_mfrs,hi,42,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,new_mfr_rate_3y,hi,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,challenger_gapclose_3y,lo,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,packaging,lo,23,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,median_slope_3y,hi,46,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,near_frontier_trend,lo,24,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,leader_held,lo,44,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,leader_margin,hi,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,eff_mfrs,lo,21,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,yrs_since_jump,lo,47,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,leader_held,hi,20,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,packaging,hi,34,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,challenger_gapclose_3y,hi,52,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,new_mfr_rate_3y,lo,22,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,leader_margin,lo,49,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,yrs_since_jump,hi,16,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,median_slope_3y,lo,30,True
+140,control,LDO Voltage Regulators,quiescentCurrent,2,near_frontier_trend,hi,45,True
+122,control,LDO Voltage Regulators,outputCurrent,2,median_slope_3y,lo,30,True
+122,control,LDO Voltage Regulators,outputCurrent,2,leader_held,lo,40,True
+122,control,LDO Voltage Regulators,outputCurrent,2,median_slope_3y,hi,47,True
+122,control,LDO Voltage Regulators,outputCurrent,2,leader_margin,lo,58,True
+122,control,LDO Voltage Regulators,outputCurrent,2,challenger_gapclose_3y,lo,24,True
+122,control,LDO Voltage Regulators,outputCurrent,2,new_mfr_rate_3y,lo,28,True
+122,control,LDO Voltage Regulators,outputCurrent,2,packaging,hi,34,True
+122,control,LDO Voltage Regulators,outputCurrent,2,packaging,lo,30,True
+122,control,LDO Voltage Regulators,outputCurrent,2,leader_margin,hi,21,True
+122,control,LDO Voltage Regulators,outputCurrent,2,near_frontier_trend,lo,26,True
+122,control,LDO Voltage Regulators,outputCurrent,2,challenger_gapclose_3y,hi,62,True
+122,control,LDO Voltage Regulators,outputCurrent,2,yrs_since_jump,hi,25,True
+122,control,LDO Voltage Regulators,outputCurrent,2,eff_mfrs,hi,46,True
+122,control,LDO Voltage Regulators,outputCurrent,2,near_frontier_trend,hi,51,True
+122,control,LDO Voltage Regulators,outputCurrent,2,eff_mfrs,lo,19,True
+122,control,LDO Voltage Regulators,outputCurrent,2,new_mfr_rate_3y,hi,53,True
+122,control,LDO Voltage Regulators,outputCurrent,2,leader_held,hi,18,True
+122,control,LDO Voltage Regulators,outputCurrent,2,yrs_since_jump,lo,44,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,eff_mfrs,hi,52,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,median_slope_3y,hi,56,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,packaging,lo,30,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,near_frontier_trend,hi,60,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,new_mfr_rate_3y,hi,40,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,eff_mfrs,lo,27,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_held,hi,20,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,yrs_since_jump,hi,18,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_margin,lo,57,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_held,lo,40,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,yrs_since_jump,lo,46,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,near_frontier_trend,lo,40,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,challenger_gapclose_3y,lo,29,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,packaging,hi,42,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,challenger_gapclose_3y,hi,60,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,new_mfr_rate_3y,lo,31,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_margin,hi,30,True
+150,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,median_slope_3y,lo,26,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,packaging,hi,46,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,near_frontier_trend,lo,40,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,challenger_gapclose_3y,lo,34,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_margin,hi,32,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,near_frontier_trend,hi,58,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,median_slope_3y,lo,37,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,new_mfr_rate_3y,lo,36,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_margin,lo,45,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,median_slope_3y,hi,61,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,yrs_since_jump,lo,50,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_held,lo,42,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,packaging,lo,29,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,eff_mfrs,lo,33,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,yrs_since_jump,hi,30,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_held,hi,31,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,eff_mfrs,hi,55,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,new_mfr_rate_3y,hi,45,True
+134,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,challenger_gapclose_3y,hi,63,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,challenger_gapclose_3y,lo,40,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,eff_mfrs,lo,34,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,near_frontier_trend,lo,37,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,eff_mfrs,hi,63,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,median_slope_3y,lo,41,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,new_mfr_rate_3y,lo,50,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,challenger_gapclose_3y,hi,66,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,near_frontier_trend,hi,50,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_margin,hi,37,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,new_mfr_rate_3y,hi,67,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,yrs_since_jump,lo,60,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,packaging,lo,33,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_held,hi,30,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,median_slope_3y,hi,68,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,yrs_since_jump,hi,27,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,packaging,hi,52,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_held,lo,55,True
+130,control,LDO Voltage Regulators,psrrRippleRejectionTyp,2,leader_margin,lo,50,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,median_slope_3y,lo,20,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,eff_mfrs,hi,25,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,eff_mfrs,lo,14,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,new_mfr_rate_3y,hi,40,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,near_frontier_trend,lo,18,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_held,hi,25,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,packaging,hi,27,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_margin,lo,43,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,packaging,lo,20,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,new_mfr_rate_3y,lo,17,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_held,lo,41,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,yrs_since_jump,hi,18,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,challenger_gapclose_3y,lo,15,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,median_slope_3y,hi,46,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,leader_margin,hi,15,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,challenger_gapclose_3y,hi,49,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,near_frontier_trend,hi,43,True
+157,control,LDO Voltage Regulators,voltageRegulationAccuracy,2,yrs_since_jump,lo,45,True

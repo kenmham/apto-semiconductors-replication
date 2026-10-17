@@ -14,6 +14,11 @@ STAGES = {
     'forecast': 'forecast.py',
     'tables': 'tables.py',
     'figures': 'figures.py',
+    'sensitivity': 'sensitivity.py',
+    'timing-stratification': 'timing_stratification.py',
+    'coupling': 'coupling_results.py',
+    'pilots': 'pilots.py',
+    'verify-results': 'verify_results.py',
 }
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument('--data', type=Path, default=ROOT / 'data/current.parquet')

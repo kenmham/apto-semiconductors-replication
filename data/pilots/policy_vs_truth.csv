@@ -1,0 +1,10 @@
+feature,policy,policy_se,truth_uni,truth_multi
+yrs_since_jump,-20.0,1.7,-0.072,-0.253
+leader_held,-15.6,1.7,-0.007,-0.021
+eff_mfrs,20.8,1.3,-0.003,0.0
+leader_margin,-21.8,1.7,-0.001,-0.023
+new_mfr_rate_3y,17.0,1.4,0.018,0.04
+near_frontier_trend,20.2,1.2,-0.009,-0.003
+median_slope_3y,22.1,1.5,-0.001,-0.011
+challenger_gapclose_3y,27.5,1.4,-0.021,-0.061
+packaging,9.4,0.9,0.0,0.0
